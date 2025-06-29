@@ -1,0 +1,89 @@
+﻿@page "/aviones1s"
+@using Microsoft.EntityFrameworkCore
+@using Microsoft.AspNetCore.Components.QuickGrid
+@using DOGO2.Model
+@using DOGO2.Data
+@using Syncfusion.Blazor.Grids;
+@using Syncfusion.Blazor.Data;
+@using Syncfusion.Blazor;
+@implements IAsyncDisposable
+@inject IDbContextFactory<DOGO2.Data.DOGO2Context> DbFactory
+@inject ILogger<Aviones1> Logger
+
+<h3 class="mb-4">DOGO</h3>
+
+<SfGrid DataSource="@Aviones1s" TItem="Aviones1" AllowPaging="true" AllowSearching="true" Toolbar="@toolbar" OnActionBegin="OnActionBeginHandler">
+    <GridEditSettings AllowAdding="true" AllowEditing="true" AllowDeleting="true"></GridEditSettings>
+    <GridPageSettings PageSize="2"></GridPageSettings>
+    <GridFilterSettings Type="Syncfusion.Blazor.Grids.FilterType.Menu"></GridFilterSettings>
+    <GridColumns>
+        <GridColumn IsPrimaryKey="true" IsIdentity="true" Field="IdAvion" HeaderText="ID Avión" Visible="false" />
+        <GridColumn Field="IdTipoAvion" HeaderText="Tipo Avión" />
+        <GridColumn Field="IdCategoriaAvion" HeaderText="Categoría Avión" />
+        <GridColumn Field="Matricula" HeaderText="Matrícula" />
+        <GridColumn Field="Nombre" HeaderText="Nombre" />
+        <GridColumn Field="Modelo" HeaderText="Modelo" />
+    </GridColumns>
+</SfGrid>
+
+
+@code {
+    private DOGO2Context context = default!;
+    private List<Aviones1>? Aviones1s { get; set; }
+    private List<object> toolbar = new List<object> {"Add","Edit","Update","Cancel","Search" };
+
+    protected override async Task OnInitializedAsync()
+    {
+        context = DbFactory.CreateDbContext();
+        Aviones1s = await context.Aviones1.ToListAsync();
+    }
+
+    private async Task OnActionBeginHandler(Syncfusion.Blazor.Grids.ActionEventArgs<Aviones1> args)
+    {
+        if (args.RequestType == Syncfusion.Blazor.Grids.Action.BeginEdit)
+            return;
+
+        if (args.RequestType == Syncfusion.Blazor.Grids.Action.Save && args.Action == "Add")
+        {
+            try
+            {
+                var nuevoAvion = args.Data;
+                // Asegúrate de que IdAvion sea 0 para que SQL Server lo genere
+                nuevoAvion.IdAvion = 0;
+                context.Aviones1.Add(nuevoAvion!);
+                await context.SaveChangesAsync();
+
+                // Refresca la lista para mostrar el nuevo registro
+                Aviones1s = await context.Aviones1.ToListAsync();
+                StateHasChanged();
+                Logger.LogInformation("Avión agregado correctamente: {@Avion}", nuevoAvion);
+            }
+            catch (Exception ex)
+            {
+                // Puedes mostrar el error en pantalla o loguearlo
+                Console.WriteLine($"Error al guardar: {ex.Message}");
+                Logger.LogError(ex, "Error al guardar un nuevo avión");
+            }
+        }
+        else if (args.RequestType == Syncfusion.Blazor.Grids.Action.Save && args.Action == "Edit")
+        {
+            try{
+
+            var avionEditado = args.Data;
+            context.Aviones1.Update(avionEditado!);
+            await context.SaveChangesAsync();
+
+            // Refresca la lista para mostrar los cambios
+            Aviones1s = await context.Aviones1.ToListAsync();
+            StateHasChanged();
+            Logger.LogInformation("Avión editado correctamente: {@Avion}", avionEditado);
+            }
+            catch (Exception ex)
+            {
+                Logger.LogError(ex, "Error al editar el avión");
+            }
+        }
+    }
+
+        public async ValueTask DisposeAsync() => await context.DisposeAsync();
+}

@@ -1,0 +1,64 @@
+﻿@page "/aviones1s/create"
+@using Microsoft.EntityFrameworkCore
+@using DOGO2.Model
+@inject IDbContextFactory<DOGO2.Data.DOGO2Context> DbFactory
+@inject NavigationManager NavigationManager
+
+<PageTitle>Create</PageTitle>
+
+<h1>Create</h1>
+
+<h2>Aviones1</h2>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <EditForm method="post" Model="Aviones1" OnValidSubmit="AddAviones1" FormName="create" Enhance>
+            <DataAnnotationsValidator />
+            <ValidationSummary class="text-danger" role="alert"/>
+            <div class="mb-3">
+                <label for="idtipoavion" class="form-label">IdTipoAvion:</label> 
+                <InputNumber id="idtipoavion" @bind-Value="Aviones1.IdTipoAvion" class="form-control" /> 
+                <ValidationMessage For="() => Aviones1.IdTipoAvion" class="text-danger" /> 
+            </div>        
+            <div class="mb-3">
+                <label for="idcategoriaavion" class="form-label">IdCategoriaAvion:</label> 
+                <InputNumber id="idcategoriaavion" @bind-Value="Aviones1.IdCategoriaAvion" class="form-control" /> 
+                <ValidationMessage For="() => Aviones1.IdCategoriaAvion" class="text-danger" /> 
+            </div>        
+            <div class="mb-3">
+                <label for="matricula" class="form-label">Matricula:</label> 
+                <InputText id="matricula" @bind-Value="Aviones1.Matricula" class="form-control" /> 
+                <ValidationMessage For="() => Aviones1.Matricula" class="text-danger" /> 
+            </div>        
+            <div class="mb-3">
+                <label for="nombre" class="form-label">Nombre:</label> 
+                <InputText id="nombre" @bind-Value="Aviones1.Nombre" class="form-control" /> 
+                <ValidationMessage For="() => Aviones1.Nombre" class="text-danger" /> 
+            </div>        
+            <div class="mb-3">
+                <label for="modelo" class="form-label">Modelo:</label> 
+                <InputText id="modelo" @bind-Value="Aviones1.Modelo" class="form-control" /> 
+                <ValidationMessage For="() => Aviones1.Modelo" class="text-danger" /> 
+            </div>        
+            <button type="submit" class="btn btn-primary">Create</button>
+        </EditForm>
+    </div>
+</div>
+
+<div>
+    <a href="/aviones1s">Back to List</a>
+</div>
+
+@code {
+    [SupplyParameterFromForm]
+    private Aviones1 Aviones1 { get; set; } = new();
+
+    // To protect from overposting attacks, see https://learn.microsoft.com/aspnet/core/blazor/forms/#mitigate-overposting-attacks.
+    private async Task AddAviones1()
+    {
+        using var context = DbFactory.CreateDbContext();
+        context.Aviones1.Add(Aviones1);
+        await context.SaveChangesAsync();
+        NavigationManager.NavigateTo("/aviones1s");
+    }
+}

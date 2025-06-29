@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\atyse\\source\\repos\\DOGO2\\DOGO2\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\DOGO2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DOGO2.u7gvzjfmnh.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\atyse\\source\\repos\\DOGO2\\DOGO2\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\atyse\\source\\repos\\DOGO2\\DOGO2\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.DOGO2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.DOGO2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.DOGO2.props",
+      "PackagePath": "build\\DOGO2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.DOGO2.props",
+      "PackagePath": "buildMultiTargeting\\DOGO2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.DOGO2.props",
+      "PackagePath": "buildTransitive\\DOGO2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

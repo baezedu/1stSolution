@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DOGO2.props" />
+</Project>
