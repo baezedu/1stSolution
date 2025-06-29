@@ -1,0 +1,1079 @@
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\appsettings.json
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\DOGO2.staticwebassets.runtime.json
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\DOGO2.staticwebassets.endpoints.json
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\DOGO2.exe
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\DOGO2.deps.json
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\DOGO2.runtimeconfig.json
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\DOGO2.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\DOGO2.pdb
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Humanizer.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\DOGO2.csproj.AssemblyReference.cache
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\DOGO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\DOGO2.AssemblyInfoInputs.cache
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\DOGO2.AssemblyInfo.cs
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\DOGO2.csproj.CoreCompileInputs.cache
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\DOGO2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\scopedcss\bundle\DOGO2.styles.css
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\scopedcss\projectbundle\DOGO2.bundle.scp.css
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\unlu0xluo6-eu7w3d5g1a.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\p46qncr3rz-khy4lop6wu.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\3gin1ph7ub-25o87uqmvr.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\ci2983484b-mmvkg2u3q7.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\tx2bqrkgzc-u7gvzjfmnh.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\staticwebassets\msbuild.DOGO2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\staticwebassets\msbuild.DOGO2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\staticwebassets\msbuild.build.DOGO2.props
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DOGO2.props
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DOGO2.props
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\DOGO2.csproj.Up2Date
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\DOGO2.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\refint\DOGO2.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\DOGO2.pdb
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\DOGO2.genruntimeconfig.cache
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\ref\DOGO2.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\appsettings.json
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\DOGO2.staticwebassets.endpoints.json
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\DOGO2.staticwebassets.runtime.json
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\DOGO2.exe
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\DOGO2.deps.json
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\DOGO2.runtimeconfig.json
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\DOGO2.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\DOGO2.pdb
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Humanizer.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\DOGO2.csproj.AssemblyReference.cache
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\DOGO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\DOGO2.AssemblyInfoInputs.cache
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\DOGO2.AssemblyInfo.cs
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\DOGO2.csproj.CoreCompileInputs.cache
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\DOGO2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\scopedcss\bundle\DOGO2.styles.css
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\scopedcss\projectbundle\DOGO2.bundle.scp.css
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\unlu0xluo6-eu7w3d5g1a.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\p46qncr3rz-khy4lop6wu.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\zdcjml33t7-bqjiyaj88i.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\ornq4ncn2p-c2jlpeoesf.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\tj9aex6rwl-erw9l3u2r3.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\v6xs6o69hz-aexeepp0ev.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\vxy4lw38at-d7shbmvgxk.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\w261cxdcvz-ausgxo2sd3.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\e0i6f0bzl9-k8d9w2qqmf.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\i7239v78bv-cosvhxvwiu.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\ugrhaleabs-ub07r2b239.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\84q7xh7thl-fvhpjtyr6v.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\vvvo33oj04-b7pk76d08c.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\0rcckgs5du-fsbi9cje9m.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\svgfe49ggj-rzd6atqjts.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\zr9c28am3i-ee0r1s7dh0.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\9zofsi8ksu-dxx9fxp4il.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\n4iepxjwu7-jd9uben2k1.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\cpg70e4ldu-khv3u5hwcm.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\kdo3t9mdzg-r4e9w2rdcm.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\8k3ifql8ju-lcd1t2u6c8.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\mqe3ysniq9-c2oey78nd0.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\ahi80rwj14-tdbxkamptv.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\34zyop24as-j5mq2jizvt.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\m18n84ur4v-06098lyss8.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\rx7jwbfoos-nvvlpmu67g.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\tccwe1ujpq-s35ty4nyc5.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\rm1tsf5efn-pj5nd1wqec.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\dfsnybev4u-46ein0sx1k.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\vv0ew5qc2v-v0zj4ognzu.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\l7hg470x95-37tfw0ft22.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\iv5kr6hun6-hrwsygsryq.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\3hu44i60uj-pk9g2wxc8p.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\mbgyvpux90-ft3s53vfgj.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\m38kvvxuvp-6cfz1n2cew.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\z7c2pv7g8b-6pdc2jztkx.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\i9hjsk2xqw-493y06b0oq.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\zjyp0zqutz-iovd86k7lj.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\d80hwtf2xj-vr1egmr9el.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\4hcg9z4diy-kbrnm935zg.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\8vprgaoq4k-jj8uyg4cgr.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\x1flgqeo3z-y7v9cxd14o.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\7mi4jrmh6f-notf2xhcfb.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\je3wvi0pha-h1s4sie4z3.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\b5xeb7manh-63fj8s7r0e.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\hs3baznbmy-0j3bgjxly4.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\3gin1ph7ub-25o87uqmvr.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\ci2983484b-mmvkg2u3q7.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\compressed\tx2bqrkgzc-u7gvzjfmnh.gz
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\staticwebassets\msbuild.DOGO2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\staticwebassets\msbuild.DOGO2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\staticwebassets\msbuild.build.DOGO2.props
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DOGO2.props
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DOGO2.props
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\DOGO2.csproj.Up2Date
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\DOGO2.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\refint\DOGO2.dll
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\DOGO2.pdb
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\DOGO2.genruntimeconfig.cache
+C:\Users\atyse\source\repos\DOGO2 - copia\DOGO2\obj\Debug\net9.0\ref\DOGO2.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\appsettings.json
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\DOGO2.staticwebassets.endpoints.json
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\DOGO2.staticwebassets.runtime.json
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\DOGO2.exe
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\DOGO2.deps.json
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\DOGO2.runtimeconfig.json
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\DOGO2.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\DOGO2.pdb
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Humanizer.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\DOGO2.csproj.AssemblyReference.cache
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\DOGO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\DOGO2.AssemblyInfoInputs.cache
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\DOGO2.AssemblyInfo.cs
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\DOGO2.csproj.CoreCompileInputs.cache
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\DOGO2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\scopedcss\bundle\DOGO2.styles.css
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\scopedcss\projectbundle\DOGO2.bundle.scp.css
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\unlu0xluo6-eu7w3d5g1a.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\p46qncr3rz-khy4lop6wu.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\zdcjml33t7-bqjiyaj88i.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\ornq4ncn2p-c2jlpeoesf.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\tj9aex6rwl-erw9l3u2r3.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\v6xs6o69hz-aexeepp0ev.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\vxy4lw38at-d7shbmvgxk.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\w261cxdcvz-ausgxo2sd3.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\e0i6f0bzl9-k8d9w2qqmf.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\i7239v78bv-cosvhxvwiu.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\ugrhaleabs-ub07r2b239.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\84q7xh7thl-fvhpjtyr6v.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\vvvo33oj04-b7pk76d08c.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\0rcckgs5du-fsbi9cje9m.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\svgfe49ggj-rzd6atqjts.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\zr9c28am3i-ee0r1s7dh0.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\9zofsi8ksu-dxx9fxp4il.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\n4iepxjwu7-jd9uben2k1.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\cpg70e4ldu-khv3u5hwcm.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\kdo3t9mdzg-r4e9w2rdcm.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\8k3ifql8ju-lcd1t2u6c8.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\mqe3ysniq9-c2oey78nd0.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\ahi80rwj14-tdbxkamptv.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\34zyop24as-j5mq2jizvt.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\m18n84ur4v-06098lyss8.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\rx7jwbfoos-nvvlpmu67g.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\tccwe1ujpq-s35ty4nyc5.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\rm1tsf5efn-pj5nd1wqec.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\dfsnybev4u-46ein0sx1k.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\vv0ew5qc2v-v0zj4ognzu.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\l7hg470x95-37tfw0ft22.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\iv5kr6hun6-hrwsygsryq.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\3hu44i60uj-pk9g2wxc8p.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\mbgyvpux90-ft3s53vfgj.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\m38kvvxuvp-6cfz1n2cew.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\z7c2pv7g8b-6pdc2jztkx.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\i9hjsk2xqw-493y06b0oq.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\zjyp0zqutz-iovd86k7lj.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\d80hwtf2xj-vr1egmr9el.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\4hcg9z4diy-kbrnm935zg.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\8vprgaoq4k-jj8uyg4cgr.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\x1flgqeo3z-y7v9cxd14o.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\7mi4jrmh6f-notf2xhcfb.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\je3wvi0pha-h1s4sie4z3.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\b5xeb7manh-63fj8s7r0e.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\hs3baznbmy-0j3bgjxly4.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\3gin1ph7ub-25o87uqmvr.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\ci2983484b-mmvkg2u3q7.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\compressed\tx2bqrkgzc-u7gvzjfmnh.gz
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\staticwebassets\msbuild.DOGO2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\staticwebassets\msbuild.DOGO2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\staticwebassets\msbuild.build.DOGO2.props
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DOGO2.props
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DOGO2.props
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\DOGO2.csproj.Up2Date
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\DOGO2.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\refint\DOGO2.dll
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\DOGO2.pdb
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\DOGO2.genruntimeconfig.cache
+C:\Users\atyse\source\repos\DOGO2 - copia - copia\DOGO2\obj\Debug\net9.0\ref\DOGO2.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Syncfusion.Blazor.Buttons.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Syncfusion.Blazor.Calendars.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Syncfusion.Blazor.Core.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Syncfusion.Blazor.Data.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Syncfusion.Blazor.DropDowns.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Syncfusion.Blazor.Grids.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Syncfusion.Blazor.Inputs.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Syncfusion.Blazor.Lists.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Syncfusion.Blazor.Navigations.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Syncfusion.Blazor.Notifications.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Syncfusion.Blazor.Popups.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Syncfusion.Blazor.Spinner.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Syncfusion.Blazor.SplitButtons.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Syncfusion.Blazor.Themes.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Syncfusion.Blazor.TreeGrid.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Syncfusion.ExcelExport.Net.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Syncfusion.Licensing.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\Syncfusion.PdfExport.Net.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\d77l2qy8cy-14mxlp7r79.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\kg2ram854o-h09vqkg22y.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\idlbwfjf3e-qbm2tnkecl.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\ckt86gem57-nkpix5hw4b.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\dnwq9wk44u-1psmu0mumc.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\5h81voagx1-geqjkzxuzr.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\2ndbdiwf0k-rcq3l3awrs.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\g591birpkc-fvn49qx0oj.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\ha3ck1f4wq-koszduaykz.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\onzwzcnqot-ur8rktvc4x.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\k2lc9f2kwg-ihkj1ye1c9.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\3spo2eianh-8o10juw9uv.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\bm0n96jk7v-grl86s4y72.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\p2zgtah1ds-rfk3x36fyu.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\9zg8dqxfdk-ww8vt6ei00.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\lc6ok7c9tb-fzo40cl9t6.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\4l15mon31j-laa1fja415.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\jsshet654m-1pma064cwt.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\6wjchtuxco-72tm06njup.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\sadf1bszs1-xsdhjhv6cn.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\12khajnlde-7huteymgo5.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\vbtp9tnch6-09s7q6nmf3.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\sb4o3odzm8-dl5dclz7c7.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\jazegy34qu-eqmkvln1lt.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\kn04c7n2x3-qhih2rn4y1.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\ffhxaeu1yb-j1y2154o1i.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\pq6ds00kew-2ea00s6x7m.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\gk0sdbowrt-znujb5uiaa.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\sekkta200r-wpa1f76sk5.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\0yyctx1peb-n33j0g260x.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\eiq2m65tqw-mah12gad7l.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\juc69m01qj-9tcxpy3zcd.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\anji1rpska-i928zzq24z.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\vihrpo2kci-9yzrw17x4z.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\nr2uivr86d-jit7czgp35.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\0pcagc9na8-gckhuugs5u.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\9ispkuv7ij-a99ebprdup.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\tqhdg3t9bq-tx7b9pua7w.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\eejr38ihun-0nhsad2ov4.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\djau0kle4k-ctiyj2v1q7.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\mfqtlt087y-jjnvub9y5q.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\ukontf0to4-d6t6neq8rr.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\grozcvm4ej-0g21hwxuuk.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\jhhm3fquz3-l0n3xb1873.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\2m61bm772c-xz46o0h0la.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\diku15o4fe-xu5hshgoah.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\pl2kkyous1-9qcxmyxywl.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\u3460sy28a-dcw39x2gk5.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\nq0zaazork-n8d8i90qja.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\6efprx52i0-w6a3pfoile.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\klmnspddx3-g3wlcwbrvi.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\naq8k6d23h-wzmhh8bzko.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\rece5i0o3b-ye10x8733w.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\ha92l7h15r-delg4erlk5.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\lv8nbelh2x-sz7945mp57.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\8qaxuxlnbt-upnjsdajog.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\g9w5tdrjvt-6v8g2t4pod.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\ev84ybuhfb-lnqeiek4r9.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\ll0ck2c3pw-3gaofbsw3j.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\m9pq0qobmp-0kwr9xhg4q.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\g0kkhqlx3b-hq3cs7trxc.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\fx6f6w99v8-tt28pe6tmc.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\czad4b1t5w-se5hr39hlg.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\w7wzav3zkk-vfb9gc8njw.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\ezik3was9u-qqsz00so4u.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\0gmeqlood7-o6ixhcnswr.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\rceg06wfiw-70cbrh7r8z.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\5q2prff4m2-r566gxivry.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\awwokdaaq0-z3rfmw5p17.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\984b865z1b-ymu2iqrwe5.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\ytu8lus5q2-s60sl5cekc.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\mpbuet7hpe-nsp3s5zdlf.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\pxx57cfmdu-yxsmuxd38e.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\yu10ux9zg2-84mogid318.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\xj9e5awasb-uqm8ubbh9c.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\f1vaqyeoju-vb3w87yzo4.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\8fhnih39yd-ltq2szqoe7.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\aqas0gzsh0-hj8xmq40ag.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\r5ssla993m-zvrljybuvz.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\yqbsc2e4c2-rp5lx0a5pj.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\2dszv1c0dc-ruuo6n8fv1.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\ubxng02trl-qqocawqwsq.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\h56puxhs03-izbp7q6vuh.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\oaindoncb5-drwc66rnym.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\xhfo9ezgkd-repgxbs2b1.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\1e4urs263g-f8t1hyzujp.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\4qsv9tgae5-a2yp0dhd1m.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\lf21o06s6y-nlsa2fzstw.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\8u73xo5u52-7oyslfri57.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\sa1475ed2m-e32pu1c6c8.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\w0orhpiaxo-3nukkognb1.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\4ulei2vwud-1c05nk982x.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\ay4l9je90m-91ilfaf7gx.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\fsp2o9negp-cn8s6plf62.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\s2yf70i8pu-jshoufk51p.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\wa7m2rhtxr-mmscdjdkpb.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\yjifzcnj40-ysotgwn91t.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\wkxfmls346-cv21b5t0y1.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\h5th63hdh4-sgrwp9n13r.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\sxqxspocya-27upyvy6sf.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\rd6io8kvbb-wlwl6tmpbp.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\g3fd5cikf4-5y30jzbt7p.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\k08v6vvvwj-kaxahryzrz.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\npcbabgmoa-cb68q94to7.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\4cc4cl8qb1-vvw9hjsi7s.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\3itjbw64bu-ftpxodawe4.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\DOGO2.sourcelink.json
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\zdcjml33t7-bqjiyaj88i.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\ornq4ncn2p-c2jlpeoesf.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\tj9aex6rwl-erw9l3u2r3.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\v6xs6o69hz-aexeepp0ev.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\vxy4lw38at-d7shbmvgxk.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\w261cxdcvz-ausgxo2sd3.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\e0i6f0bzl9-k8d9w2qqmf.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\i7239v78bv-cosvhxvwiu.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\ugrhaleabs-ub07r2b239.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\84q7xh7thl-fvhpjtyr6v.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\vvvo33oj04-b7pk76d08c.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\0rcckgs5du-fsbi9cje9m.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\svgfe49ggj-rzd6atqjts.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\zr9c28am3i-ee0r1s7dh0.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\9zofsi8ksu-dxx9fxp4il.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\n4iepxjwu7-jd9uben2k1.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\cpg70e4ldu-khv3u5hwcm.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\kdo3t9mdzg-r4e9w2rdcm.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\8k3ifql8ju-lcd1t2u6c8.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\mqe3ysniq9-c2oey78nd0.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\ahi80rwj14-tdbxkamptv.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\34zyop24as-j5mq2jizvt.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\m18n84ur4v-06098lyss8.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\rx7jwbfoos-nvvlpmu67g.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\tccwe1ujpq-s35ty4nyc5.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\rm1tsf5efn-pj5nd1wqec.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\dfsnybev4u-46ein0sx1k.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\vv0ew5qc2v-v0zj4ognzu.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\l7hg470x95-37tfw0ft22.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\iv5kr6hun6-hrwsygsryq.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\3hu44i60uj-pk9g2wxc8p.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\mbgyvpux90-ft3s53vfgj.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\m38kvvxuvp-6cfz1n2cew.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\z7c2pv7g8b-6pdc2jztkx.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\i9hjsk2xqw-493y06b0oq.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\zjyp0zqutz-iovd86k7lj.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\d80hwtf2xj-vr1egmr9el.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\4hcg9z4diy-kbrnm935zg.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\8vprgaoq4k-jj8uyg4cgr.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\x1flgqeo3z-y7v9cxd14o.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\7mi4jrmh6f-notf2xhcfb.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\je3wvi0pha-h1s4sie4z3.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\b5xeb7manh-63fj8s7r0e.gz
+C:\Users\atyse\source\repos\DOGO2\DOGO2\obj\Debug\net9.0\compressed\hs3baznbmy-0j3bgjxly4.gz

@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atyse\\source\\repos\\DOGO2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E34D3E6-E5F1-4253-8106-EF6F1FEB4B40}|DOGO2\\DOGO2.csproj|c:\\users\\atyse\\source\\repos\\dogo2\\dogo2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E34D3E6-E5F1-4253-8106-EF6F1FEB4B40}|DOGO2\\DOGO2.csproj|solutionrelative:dogo2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E34D3E6-E5F1-4253-8106-EF6F1FEB4B40}|DOGO2\\DOGO2.csproj|c:\\users\\atyse\\source\\repos\\dogo2\\dogo2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E34D3E6-E5F1-4253-8106-EF6F1FEB4B40}|DOGO2\\DOGO2.csproj|solutionrelative:dogo2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E34D3E6-E5F1-4253-8106-EF6F1FEB4B40}|DOGO2\\DOGO2.csproj|c:\\users\\atyse\\source\\repos\\dogo2\\dogo2\\data\\dogo2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E34D3E6-E5F1-4253-8106-EF6F1FEB4B40}|DOGO2\\DOGO2.csproj|solutionrelative:dogo2\\data\\dogo2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E34D3E6-E5F1-4253-8106-EF6F1FEB4B40}|DOGO2\\DOGO2.csproj|c:\\users\\atyse\\source\\repos\\dogo2\\dogo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E34D3E6-E5F1-4253-8106-EF6F1FEB4B40}|DOGO2\\DOGO2.csproj|solutionrelative:dogo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E34D3E6-E5F1-4253-8106-EF6F1FEB4B40}|DOGO2\\DOGO2.csproj|c:\\users\\atyse\\source\\repos\\dogo2\\dogo2\\components\\pages\\aviones1pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E34D3E6-E5F1-4253-8106-EF6F1FEB4B40}|DOGO2\\DOGO2.csproj|solutionrelative:dogo2\\components\\pages\\aviones1pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E34D3E6-E5F1-4253-8106-EF6F1FEB4B40}|DOGO2\\DOGO2.csproj|c:\\users\\atyse\\source\\repos\\dogo2\\dogo2\\model\\aviones1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E34D3E6-E5F1-4253-8106-EF6F1FEB4B40}|DOGO2\\DOGO2.csproj|solutionrelative:dogo2\\model\\aviones1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\atyse\\source\\repos\\DOGO2\\DOGO2\\appsettings.json",
+              "RelativeDocumentMoniker": "DOGO2\\appsettings.json",
+              "ToolTip": "C:\\Users\\atyse\\source\\repos\\DOGO2\\DOGO2\\appsettings.json",
+              "RelativeToolTip": "DOGO2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-27T19:41:04.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DOGO2Context.cs",
+              "DocumentMoniker": "C:\\Users\\atyse\\source\\repos\\DOGO2\\DOGO2\\Data\\DOGO2Context.cs",
+              "RelativeDocumentMoniker": "DOGO2\\Data\\DOGO2Context.cs",
+              "ToolTip": "C:\\Users\\atyse\\source\\repos\\DOGO2\\DOGO2\\Data\\DOGO2Context.cs",
+              "RelativeToolTip": "DOGO2\\Data\\DOGO2Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T17:56:16.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\atyse\\source\\repos\\DOGO2\\DOGO2\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DOGO2\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\atyse\\source\\repos\\DOGO2\\DOGO2\\appsettings.Development.json",
+              "RelativeToolTip": "DOGO2\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T17:57:52.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\atyse\\source\\repos\\DOGO2\\DOGO2\\Components\\Pages\\Aviones1Pages\\Index.razor",
+              "RelativeDocumentMoniker": "DOGO2\\Components\\Pages\\Aviones1Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\atyse\\source\\repos\\DOGO2\\DOGO2\\Components\\Pages\\Aviones1Pages\\Index.razor",
+              "RelativeToolTip": "DOGO2\\Components\\Pages\\Aviones1Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-21T02:47:19.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aviones1.cs",
+              "DocumentMoniker": "C:\\Users\\atyse\\source\\repos\\DOGO2\\DOGO2\\Model\\Aviones1.cs",
+              "RelativeDocumentMoniker": "DOGO2\\Model\\Aviones1.cs",
+              "ToolTip": "C:\\Users\\atyse\\source\\repos\\DOGO2\\DOGO2\\Model\\Aviones1.cs",
+              "RelativeToolTip": "DOGO2\\Model\\Aviones1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T17:33:39.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atyse\\source\\repos\\DOGO2\\DOGO2\\Program.cs",
+              "RelativeDocumentMoniker": "DOGO2\\Program.cs",
+              "ToolTip": "C:\\Users\\atyse\\source\\repos\\DOGO2\\DOGO2\\Program.cs",
+              "RelativeToolTip": "DOGO2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:50:32.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

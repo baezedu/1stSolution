@@ -1,0 +1,71 @@
+﻿@page "/aviones1s/delete"
+@using Microsoft.EntityFrameworkCore
+@using DOGO2.Model
+@inject IDbContextFactory<DOGO2.Data.DOGO2Context> DbFactory
+@inject NavigationManager NavigationManager
+
+<PageTitle>Delete</PageTitle>
+
+<h1>Delete</h1>
+
+<p>Are you sure you want to delete this?</p>
+<div>
+    <h2>Aviones1</h2>
+    <hr />
+    @if (aviones1 is null)
+    {
+        <p><em>Loading...</em></p>
+    }
+    else {
+        <dl class="row">
+            <dt class="col-sm-2">IdTipoAvion</dt>
+            <dd class="col-sm-10">@aviones1.IdTipoAvion</dd>
+        </dl>
+        <dl class="row">
+            <dt class="col-sm-2">IdCategoriaAvion</dt>
+            <dd class="col-sm-10">@aviones1.IdCategoriaAvion</dd>
+        </dl>
+        <dl class="row">
+            <dt class="col-sm-2">Matricula</dt>
+            <dd class="col-sm-10">@aviones1.Matricula</dd>
+        </dl>
+        <dl class="row">
+            <dt class="col-sm-2">Nombre</dt>
+            <dd class="col-sm-10">@aviones1.Nombre</dd>
+        </dl>
+        <dl class="row">
+            <dt class="col-sm-2">Modelo</dt>
+            <dd class="col-sm-10">@aviones1.Modelo</dd>
+        </dl>
+        <EditForm method="post" Model="aviones1" OnValidSubmit="DeleteAviones1" FormName="delete" Enhance>
+            <button type="submit" class="btn btn-danger" disabled="@(aviones1 is null)">Delete</button> |
+            <a href="/aviones1s">Back to List</a>
+        </EditForm>
+    }
+</div>
+
+@code {
+    private Aviones1? aviones1;
+
+    [SupplyParameterFromQuery]
+    private int IdAvion { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        using var context = DbFactory.CreateDbContext();
+        aviones1 = await context.Aviones1.FirstOrDefaultAsync(m => m.IdAvion == IdAvion);
+
+        if (aviones1 is null)
+        {
+            NavigationManager.NavigateTo("notfound");
+        }
+    }
+
+    private async Task DeleteAviones1()
+    {
+        using var context = DbFactory.CreateDbContext();
+        context.Aviones1.Remove(aviones1!);
+        await context.SaveChangesAsync();
+        NavigationManager.NavigateTo("/aviones1s");
+    }
+}
