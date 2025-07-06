@@ -53,21 +53,21 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.6, )"
             },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.6, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.6, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.6, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
@@ -75,19 +75,27 @@
             },
             "Syncfusion.Blazor.Core": {
               "target": "Package",
-              "version": "[29.2.11, )"
+              "version": "[30.1.38, )"
             },
             "Syncfusion.Blazor.Grid": {
               "target": "Package",
-              "version": "[29.2.11, )"
+              "version": "[30.1.38, )"
+            },
+            "Syncfusion.Blazor.Layouts": {
+              "target": "Package",
+              "version": "[30.1.38, )"
+            },
+            "Syncfusion.Blazor.Navigations": {
+              "target": "Package",
+              "version": "[30.1.38, )"
             },
             "Syncfusion.Blazor.Themes": {
               "target": "Package",
-              "version": "[29.2.11, )"
+              "version": "[30.1.38, )"
             },
             "Syncfusion.Blazor.TreeGrid": {
               "target": "Package",
-              "version": "[29.2.11, )"
+              "version": "[30.1.38, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",

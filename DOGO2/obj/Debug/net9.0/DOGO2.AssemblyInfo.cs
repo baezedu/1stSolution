@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DOGO2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56b49e3d3fa2eaa09584adf366082301cb12ed42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b57b537a611c0f4b9011b13fd3892991f4a37a8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DOGO2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DOGO2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

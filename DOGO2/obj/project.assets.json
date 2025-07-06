@@ -641,12 +641,12 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Authorization/9.0.0": {
+      "Microsoft.AspNetCore.Authorization/9.0.6": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Metadata": "9.0.0",
-          "Microsoft.Extensions.Logging.Abstractions": "9.0.0",
-          "Microsoft.Extensions.Options": "9.0.0"
+          "Microsoft.AspNetCore.Metadata": "9.0.6",
+          "Microsoft.Extensions.Logging.Abstractions": "9.0.6",
+          "Microsoft.Extensions.Options": "9.0.6"
         },
         "compile": {
           "lib/net9.0/Microsoft.AspNetCore.Authorization.dll": {
@@ -659,11 +659,11 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components/9.0.0": {
+      "Microsoft.AspNetCore.Components/9.0.6": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Authorization": "9.0.0",
-          "Microsoft.AspNetCore.Components.Analyzers": "9.0.0"
+          "Microsoft.AspNetCore.Authorization": "9.0.6",
+          "Microsoft.AspNetCore.Components.Analyzers": "9.0.6"
         },
         "compile": {
           "lib/net9.0/Microsoft.AspNetCore.Components.dll": {
@@ -676,16 +676,16 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.Analyzers/9.0.0": {
+      "Microsoft.AspNetCore.Components.Analyzers/9.0.6": {
         "type": "package",
         "build": {
           "buildTransitive/netstandard2.0/Microsoft.AspNetCore.Components.Analyzers.targets": {}
         }
       },
-      "Microsoft.AspNetCore.Components.Forms/9.0.0": {
+      "Microsoft.AspNetCore.Components.Forms/9.0.6": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Components": "9.0.0"
+          "Microsoft.AspNetCore.Components": "9.0.6"
         },
         "compile": {
           "lib/net9.0/Microsoft.AspNetCore.Components.Forms.dll": {
@@ -698,10 +698,10 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.QuickGrid/9.0.0": {
+      "Microsoft.AspNetCore.Components.QuickGrid/9.0.6": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "9.0.0"
+          "Microsoft.AspNetCore.Components.Web": "9.0.6"
         },
         "compile": {
           "lib/net9.0/Microsoft.AspNetCore.Components.QuickGrid.dll": {
@@ -720,11 +720,11 @@
           "buildMultiTargeting/Microsoft.AspNetCore.Components.QuickGrid.props": {}
         }
       },
-      "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter/9.0.0": {
+      "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter/9.0.6": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Components.QuickGrid": "9.0.0",
-          "Microsoft.EntityFrameworkCore": "9.0.0"
+          "Microsoft.AspNetCore.Components.QuickGrid": "9.0.6",
+          "Microsoft.EntityFrameworkCore": "9.0.6"
         },
         "compile": {
           "lib/net9.0/Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll": {
@@ -737,14 +737,14 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.Web/9.0.0": {
+      "Microsoft.AspNetCore.Components.Web/9.0.6": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Components": "9.0.0",
-          "Microsoft.AspNetCore.Components.Forms": "9.0.0",
-          "Microsoft.Extensions.DependencyInjection": "9.0.0",
-          "Microsoft.Extensions.Primitives": "9.0.0",
-          "Microsoft.JSInterop": "9.0.0"
+          "Microsoft.AspNetCore.Components": "9.0.6",
+          "Microsoft.AspNetCore.Components.Forms": "9.0.6",
+          "Microsoft.Extensions.DependencyInjection": "9.0.6",
+          "Microsoft.Extensions.Primitives": "9.0.6",
+          "Microsoft.JSInterop": "9.0.6"
         },
         "compile": {
           "lib/net9.0/Microsoft.AspNetCore.Components.Web.dll": {
@@ -757,10 +757,10 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/9.0.0": {
+      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/9.0.6": {
         "type": "package",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Relational": "9.0.0"
+          "Microsoft.EntityFrameworkCore.Relational": "9.0.6"
         },
         "compile": {
           "lib/net9.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll": {
@@ -776,7 +776,7 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "Microsoft.AspNetCore.Metadata/9.0.0": {
+      "Microsoft.AspNetCore.Metadata/9.0.6": {
         "type": "package",
         "compile": {
           "lib/net9.0/Microsoft.AspNetCore.Metadata.dll": {
@@ -1500,13 +1500,13 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore/9.0.0": {
+      "Microsoft.EntityFrameworkCore/9.0.6": {
         "type": "package",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Abstractions": "9.0.0",
-          "Microsoft.EntityFrameworkCore.Analyzers": "9.0.0",
-          "Microsoft.Extensions.Caching.Memory": "9.0.0",
-          "Microsoft.Extensions.Logging": "9.0.0"
+          "Microsoft.EntityFrameworkCore.Abstractions": "9.0.6",
+          "Microsoft.EntityFrameworkCore.Analyzers": "9.0.6",
+          "Microsoft.Extensions.Caching.Memory": "9.0.6",
+          "Microsoft.Extensions.Logging": "9.0.6"
         },
         "compile": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.dll": {
@@ -1522,7 +1522,7 @@
           "buildTransitive/net8.0/Microsoft.EntityFrameworkCore.props": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Abstractions/9.0.0": {
+      "Microsoft.EntityFrameworkCore.Abstractions/9.0.6": {
         "type": "package",
         "compile": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
@@ -1535,10 +1535,10 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.Analyzers/9.0.0": {
+      "Microsoft.EntityFrameworkCore.Analyzers/9.0.6": {
         "type": "package"
       },
-      "Microsoft.EntityFrameworkCore.Design/9.0.0": {
+      "Microsoft.EntityFrameworkCore.Design/9.0.6": {
         "type": "package",
         "dependencies": {
           "Humanizer.Core": "2.14.1",
@@ -1547,13 +1547,13 @@
           "Microsoft.CodeAnalysis.CSharp": "4.8.0",
           "Microsoft.CodeAnalysis.CSharp.Workspaces": "4.8.0",
           "Microsoft.CodeAnalysis.Workspaces.MSBuild": "4.8.0",
-          "Microsoft.EntityFrameworkCore.Relational": "9.0.0",
-          "Microsoft.Extensions.Caching.Memory": "9.0.0",
-          "Microsoft.Extensions.Configuration.Abstractions": "9.0.0",
-          "Microsoft.Extensions.DependencyModel": "9.0.0",
-          "Microsoft.Extensions.Logging": "9.0.0",
+          "Microsoft.EntityFrameworkCore.Relational": "9.0.6",
+          "Microsoft.Extensions.Caching.Memory": "9.0.6",
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.6",
+          "Microsoft.Extensions.DependencyModel": "9.0.6",
+          "Microsoft.Extensions.Logging": "9.0.6",
           "Mono.TextTemplating": "3.0.0",
-          "System.Text.Json": "9.0.0"
+          "System.Text.Json": "9.0.6"
         },
         "compile": {
           "lib/net8.0/_._": {
@@ -1569,13 +1569,13 @@
           "build/net8.0/Microsoft.EntityFrameworkCore.Design.props": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Relational/9.0.0": {
+      "Microsoft.EntityFrameworkCore.Relational/9.0.6": {
         "type": "package",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "9.0.0",
-          "Microsoft.Extensions.Caching.Memory": "9.0.0",
-          "Microsoft.Extensions.Configuration.Abstractions": "9.0.0",
-          "Microsoft.Extensions.Logging": "9.0.0"
+          "Microsoft.EntityFrameworkCore": "9.0.6",
+          "Microsoft.Extensions.Caching.Memory": "9.0.6",
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.6",
+          "Microsoft.Extensions.Logging": "9.0.6"
         },
         "compile": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.Relational.dll": {
@@ -1588,16 +1588,16 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.SqlServer/9.0.0": {
+      "Microsoft.EntityFrameworkCore.SqlServer/9.0.6": {
         "type": "package",
         "dependencies": {
           "Microsoft.Data.SqlClient": "5.1.6",
-          "Microsoft.EntityFrameworkCore.Relational": "9.0.0",
-          "Microsoft.Extensions.Caching.Memory": "9.0.0",
-          "Microsoft.Extensions.Configuration.Abstractions": "9.0.0",
-          "Microsoft.Extensions.Logging": "9.0.0",
-          "System.Formats.Asn1": "9.0.0",
-          "System.Text.Json": "9.0.0"
+          "Microsoft.EntityFrameworkCore.Relational": "9.0.6",
+          "Microsoft.Extensions.Caching.Memory": "9.0.6",
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.6",
+          "Microsoft.Extensions.Logging": "9.0.6",
+          "System.Formats.Asn1": "9.0.6",
+          "System.Text.Json": "9.0.6"
         },
         "compile": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {
@@ -1610,16 +1610,16 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.Tools/9.0.0": {
+      "Microsoft.EntityFrameworkCore.Tools/9.0.6": {
         "type": "package",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Design": "9.0.0"
+          "Microsoft.EntityFrameworkCore.Design": "9.0.6"
         }
       },
-      "Microsoft.Extensions.Caching.Abstractions/9.0.0": {
+      "Microsoft.Extensions.Caching.Abstractions/9.0.6": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.Primitives": "9.0.0"
+          "Microsoft.Extensions.Primitives": "9.0.6"
         },
         "compile": {
           "lib/net9.0/Microsoft.Extensions.Caching.Abstractions.dll": {
@@ -1635,14 +1635,14 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Caching.Memory/9.0.0": {
+      "Microsoft.Extensions.Caching.Memory/9.0.6": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.Caching.Abstractions": "9.0.0",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.0",
-          "Microsoft.Extensions.Logging.Abstractions": "9.0.0",
-          "Microsoft.Extensions.Options": "9.0.0",
-          "Microsoft.Extensions.Primitives": "9.0.0"
+          "Microsoft.Extensions.Caching.Abstractions": "9.0.6",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.6",
+          "Microsoft.Extensions.Logging.Abstractions": "9.0.6",
+          "Microsoft.Extensions.Options": "9.0.6",
+          "Microsoft.Extensions.Primitives": "9.0.6"
         },
         "compile": {
           "lib/net9.0/Microsoft.Extensions.Caching.Memory.dll": {
@@ -1658,10 +1658,10 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Configuration.Abstractions/9.0.0": {
+      "Microsoft.Extensions.Configuration.Abstractions/9.0.6": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.Primitives": "9.0.0"
+          "Microsoft.Extensions.Primitives": "9.0.6"
         },
         "compile": {
           "lib/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
@@ -1677,10 +1677,10 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/9.0.0": {
+      "Microsoft.Extensions.DependencyInjection/9.0.6": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.0"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.6"
         },
         "compile": {
           "lib/net9.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -1696,7 +1696,7 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.0": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.6": {
         "type": "package",
         "compile": {
           "lib/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -1712,7 +1712,7 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyModel/9.0.0": {
+      "Microsoft.Extensions.DependencyModel/9.0.6": {
         "type": "package",
         "compile": {
           "lib/net9.0/Microsoft.Extensions.DependencyModel.dll": {
@@ -1728,12 +1728,12 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/9.0.0": {
+      "Microsoft.Extensions.Logging/9.0.6": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "9.0.0",
-          "Microsoft.Extensions.Logging.Abstractions": "9.0.0",
-          "Microsoft.Extensions.Options": "9.0.0"
+          "Microsoft.Extensions.DependencyInjection": "9.0.6",
+          "Microsoft.Extensions.Logging.Abstractions": "9.0.6",
+          "Microsoft.Extensions.Options": "9.0.6"
         },
         "compile": {
           "lib/net9.0/Microsoft.Extensions.Logging.dll": {
@@ -1749,10 +1749,10 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/9.0.0": {
+      "Microsoft.Extensions.Logging.Abstractions/9.0.6": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.0"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.6"
         },
         "compile": {
           "lib/net9.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -1768,11 +1768,11 @@
           "buildTransitive/net8.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Options/9.0.0": {
+      "Microsoft.Extensions.Options/9.0.6": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.0",
-          "Microsoft.Extensions.Primitives": "9.0.0"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.6",
+          "Microsoft.Extensions.Primitives": "9.0.6"
         },
         "compile": {
           "lib/net9.0/Microsoft.Extensions.Options.dll": {
@@ -1788,7 +1788,7 @@
           "buildTransitive/net8.0/Microsoft.Extensions.Options.targets": {}
         }
       },
-      "Microsoft.Extensions.Primitives/9.0.0": {
+      "Microsoft.Extensions.Primitives/9.0.6": {
         "type": "package",
         "compile": {
           "lib/net9.0/Microsoft.Extensions.Primitives.dll": {
@@ -1938,7 +1938,7 @@
           }
         }
       },
-      "Microsoft.JSInterop/9.0.0": {
+      "Microsoft.JSInterop/9.0.6": {
         "type": "package",
         "compile": {
           "lib/net9.0/Microsoft.JSInterop.dll": {
@@ -2404,10 +2404,10 @@
           }
         }
       },
-      "Syncfusion.Blazor.Buttons/29.2.11": {
+      "Syncfusion.Blazor.Buttons/30.1.38": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Blazor.Core": "29.2.11"
+          "Syncfusion.Blazor.Core": "30.1.38"
         },
         "compile": {
           "lib/net9.0/Syncfusion.Blazor.Buttons.dll": {
@@ -2426,13 +2426,13 @@
           "buildMultiTargeting/Syncfusion.Blazor.Buttons.props": {}
         }
       },
-      "Syncfusion.Blazor.Calendars/29.2.11": {
+      "Syncfusion.Blazor.Calendars/30.1.38": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Blazor.Buttons": "29.2.11",
-          "Syncfusion.Blazor.Core": "29.2.11",
-          "Syncfusion.Blazor.Inputs": "29.2.11",
-          "Syncfusion.Blazor.Lists": "29.2.11"
+          "Syncfusion.Blazor.Buttons": "30.1.38",
+          "Syncfusion.Blazor.Core": "30.1.38",
+          "Syncfusion.Blazor.Inputs": "30.1.38",
+          "Syncfusion.Blazor.Lists": "30.1.38"
         },
         "compile": {
           "lib/net9.0/Syncfusion.Blazor.Calendars.dll": {
@@ -2451,12 +2451,12 @@
           "buildMultiTargeting/Syncfusion.Blazor.Calendars.props": {}
         }
       },
-      "Syncfusion.Blazor.Core/29.2.11": {
+      "Syncfusion.Blazor.Core/30.1.38": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "9.0.0",
-          "Syncfusion.Licensing": "29.2.11",
-          "System.Text.Json": "9.0.0"
+          "Microsoft.AspNetCore.Components.Web": "9.0.4",
+          "Syncfusion.Licensing": "30.1.38",
+          "System.Text.Json": "9.0.4"
         },
         "compile": {
           "lib/net9.0/Syncfusion.Blazor.Core.dll": {
@@ -2475,10 +2475,10 @@
           "buildMultiTargeting/Syncfusion.Blazor.Core.props": {}
         }
       },
-      "Syncfusion.Blazor.Data/29.2.11": {
+      "Syncfusion.Blazor.Data/30.1.38": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Blazor.Core": "29.2.11"
+          "Syncfusion.Blazor.Core": "30.1.38"
         },
         "compile": {
           "lib/net9.0/Syncfusion.Blazor.Data.dll": {
@@ -2497,15 +2497,15 @@
           "buildMultiTargeting/Syncfusion.Blazor.Data.props": {}
         }
       },
-      "Syncfusion.Blazor.DropDowns/29.2.11": {
+      "Syncfusion.Blazor.DropDowns/30.1.38": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Blazor.Buttons": "29.2.11",
-          "Syncfusion.Blazor.Core": "29.2.11",
-          "Syncfusion.Blazor.Data": "29.2.11",
-          "Syncfusion.Blazor.Inputs": "29.2.11",
-          "Syncfusion.Blazor.Notifications": "29.2.11",
-          "Syncfusion.Blazor.Spinner": "29.2.11"
+          "Syncfusion.Blazor.Buttons": "30.1.38",
+          "Syncfusion.Blazor.Core": "30.1.38",
+          "Syncfusion.Blazor.Data": "30.1.38",
+          "Syncfusion.Blazor.Inputs": "30.1.38",
+          "Syncfusion.Blazor.Notifications": "30.1.38",
+          "Syncfusion.Blazor.Spinner": "30.1.38"
         },
         "compile": {
           "lib/net9.0/Syncfusion.Blazor.DropDowns.dll": {
@@ -2524,20 +2524,20 @@
           "buildMultiTargeting/Syncfusion.Blazor.DropDowns.props": {}
         }
       },
-      "Syncfusion.Blazor.Grid/29.2.11": {
+      "Syncfusion.Blazor.Grid/30.1.38": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Blazor.Buttons": "29.2.11",
-          "Syncfusion.Blazor.Calendars": "29.2.11",
-          "Syncfusion.Blazor.Core": "29.2.11",
-          "Syncfusion.Blazor.Data": "29.2.11",
-          "Syncfusion.Blazor.DropDowns": "29.2.11",
-          "Syncfusion.Blazor.Inputs": "29.2.11",
-          "Syncfusion.Blazor.Navigations": "29.2.11",
-          "Syncfusion.Blazor.Popups": "29.2.11",
-          "Syncfusion.Blazor.Spinner": "29.2.11",
-          "Syncfusion.ExcelExport.Net.Core": "29.2.11",
-          "Syncfusion.PdfExport.Net.Core": "29.2.11"
+          "Syncfusion.Blazor.Buttons": "30.1.38",
+          "Syncfusion.Blazor.Calendars": "30.1.38",
+          "Syncfusion.Blazor.Core": "30.1.38",
+          "Syncfusion.Blazor.Data": "30.1.38",
+          "Syncfusion.Blazor.DropDowns": "30.1.38",
+          "Syncfusion.Blazor.Inputs": "30.1.38",
+          "Syncfusion.Blazor.Navigations": "30.1.38",
+          "Syncfusion.Blazor.Popups": "30.1.38",
+          "Syncfusion.Blazor.Spinner": "30.1.38",
+          "Syncfusion.ExcelExport.Net.Core": "30.1.38",
+          "Syncfusion.PdfExport.Net.Core": "30.1.38"
         },
         "compile": {
           "lib/net9.0/Syncfusion.Blazor.Grids.dll": {
@@ -2556,15 +2556,15 @@
           "buildMultiTargeting/Syncfusion.Blazor.Grid.props": {}
         }
       },
-      "Syncfusion.Blazor.Inputs/29.2.11": {
+      "Syncfusion.Blazor.Inputs/30.1.38": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Blazor.Buttons": "29.2.11",
-          "Syncfusion.Blazor.Core": "29.2.11",
-          "Syncfusion.Blazor.Data": "29.2.11",
-          "Syncfusion.Blazor.Popups": "29.2.11",
-          "Syncfusion.Blazor.Spinner": "29.2.11",
-          "Syncfusion.Blazor.SplitButtons": "29.2.11"
+          "Syncfusion.Blazor.Buttons": "30.1.38",
+          "Syncfusion.Blazor.Core": "30.1.38",
+          "Syncfusion.Blazor.Data": "30.1.38",
+          "Syncfusion.Blazor.Popups": "30.1.38",
+          "Syncfusion.Blazor.Spinner": "30.1.38",
+          "Syncfusion.Blazor.SplitButtons": "30.1.38"
         },
         "compile": {
           "lib/net9.0/Syncfusion.Blazor.Inputs.dll": {
@@ -2583,12 +2583,35 @@
           "buildMultiTargeting/Syncfusion.Blazor.Inputs.props": {}
         }
       },
-      "Syncfusion.Blazor.Lists/29.2.11": {
+      "Syncfusion.Blazor.Layouts/30.1.38": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Blazor.Buttons": "29.2.11",
-          "Syncfusion.Blazor.Core": "29.2.11",
-          "Syncfusion.Blazor.Data": "29.2.11"
+          "Syncfusion.Blazor.Core": "30.1.38",
+          "Syncfusion.Blazor.Data": "30.1.38"
+        },
+        "compile": {
+          "lib/net9.0/Syncfusion.Blazor.Layouts.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Syncfusion.Blazor.Layouts.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.Layouts.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.Layouts.props": {}
+        }
+      },
+      "Syncfusion.Blazor.Lists/30.1.38": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Blazor.Buttons": "30.1.38",
+          "Syncfusion.Blazor.Core": "30.1.38",
+          "Syncfusion.Blazor.Data": "30.1.38"
         },
         "compile": {
           "lib/net9.0/Syncfusion.Blazor.Lists.dll": {
@@ -2607,17 +2630,17 @@
           "buildMultiTargeting/Syncfusion.Blazor.Lists.props": {}
         }
       },
-      "Syncfusion.Blazor.Navigations/29.2.11": {
+      "Syncfusion.Blazor.Navigations/30.1.38": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Blazor.Buttons": "29.2.11",
-          "Syncfusion.Blazor.Core": "29.2.11",
-          "Syncfusion.Blazor.Data": "29.2.11",
-          "Syncfusion.Blazor.DropDowns": "29.2.11",
-          "Syncfusion.Blazor.Inputs": "29.2.11",
-          "Syncfusion.Blazor.Lists": "29.2.11",
-          "Syncfusion.Blazor.Popups": "29.2.11",
-          "Syncfusion.Blazor.Spinner": "29.2.11"
+          "Syncfusion.Blazor.Buttons": "30.1.38",
+          "Syncfusion.Blazor.Core": "30.1.38",
+          "Syncfusion.Blazor.Data": "30.1.38",
+          "Syncfusion.Blazor.DropDowns": "30.1.38",
+          "Syncfusion.Blazor.Inputs": "30.1.38",
+          "Syncfusion.Blazor.Lists": "30.1.38",
+          "Syncfusion.Blazor.Popups": "30.1.38",
+          "Syncfusion.Blazor.Spinner": "30.1.38"
         },
         "compile": {
           "lib/net9.0/Syncfusion.Blazor.Navigations.dll": {
@@ -2636,11 +2659,11 @@
           "buildMultiTargeting/Syncfusion.Blazor.Navigations.props": {}
         }
       },
-      "Syncfusion.Blazor.Notifications/29.2.11": {
+      "Syncfusion.Blazor.Notifications/30.1.38": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Blazor.Buttons": "29.2.11",
-          "Syncfusion.Blazor.Core": "29.2.11"
+          "Syncfusion.Blazor.Buttons": "30.1.38",
+          "Syncfusion.Blazor.Core": "30.1.38"
         },
         "compile": {
           "lib/net9.0/Syncfusion.Blazor.Notifications.dll": {
@@ -2659,11 +2682,11 @@
           "buildMultiTargeting/Syncfusion.Blazor.Notifications.props": {}
         }
       },
-      "Syncfusion.Blazor.Popups/29.2.11": {
+      "Syncfusion.Blazor.Popups/30.1.38": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Blazor.Buttons": "29.2.11",
-          "Syncfusion.Blazor.Core": "29.2.11"
+          "Syncfusion.Blazor.Buttons": "30.1.38",
+          "Syncfusion.Blazor.Core": "30.1.38"
         },
         "compile": {
           "lib/net9.0/Syncfusion.Blazor.Popups.dll": {
@@ -2682,10 +2705,10 @@
           "buildMultiTargeting/Syncfusion.Blazor.Popups.props": {}
         }
       },
-      "Syncfusion.Blazor.Spinner/29.2.11": {
+      "Syncfusion.Blazor.Spinner/30.1.38": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Blazor.Core": "29.2.11"
+          "Syncfusion.Blazor.Core": "30.1.38"
         },
         "compile": {
           "lib/net9.0/Syncfusion.Blazor.Spinner.dll": {
@@ -2704,13 +2727,13 @@
           "buildMultiTargeting/Syncfusion.Blazor.Spinner.props": {}
         }
       },
-      "Syncfusion.Blazor.SplitButtons/29.2.11": {
+      "Syncfusion.Blazor.SplitButtons/30.1.38": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Blazor.Buttons": "29.2.11",
-          "Syncfusion.Blazor.Core": "29.2.11",
-          "Syncfusion.Blazor.Popups": "29.2.11",
-          "Syncfusion.Blazor.Spinner": "29.2.11"
+          "Syncfusion.Blazor.Buttons": "30.1.38",
+          "Syncfusion.Blazor.Core": "30.1.38",
+          "Syncfusion.Blazor.Popups": "30.1.38",
+          "Syncfusion.Blazor.Spinner": "30.1.38"
         },
         "compile": {
           "lib/net9.0/Syncfusion.Blazor.SplitButtons.dll": {
@@ -2729,7 +2752,7 @@
           "buildMultiTargeting/Syncfusion.Blazor.SplitButtons.props": {}
         }
       },
-      "Syncfusion.Blazor.Themes/29.2.11": {
+      "Syncfusion.Blazor.Themes/30.1.38": {
         "type": "package",
         "compile": {
           "lib/net9.0/Syncfusion.Blazor.Themes.dll": {
@@ -2748,15 +2771,15 @@
           "buildMultiTargeting/Syncfusion.Blazor.Themes.props": {}
         }
       },
-      "Syncfusion.Blazor.TreeGrid/29.2.11": {
+      "Syncfusion.Blazor.TreeGrid/30.1.38": {
         "type": "package",
         "dependencies": {
-          "Syncfusion.Blazor.Core": "29.2.11",
-          "Syncfusion.Blazor.Data": "29.2.11",
-          "Syncfusion.Blazor.Grid": "29.2.11",
-          "Syncfusion.Blazor.Navigations": "29.2.11",
-          "Syncfusion.Blazor.Popups": "29.2.11",
-          "Syncfusion.Blazor.Spinner": "29.2.11"
+          "Syncfusion.Blazor.Core": "30.1.38",
+          "Syncfusion.Blazor.Data": "30.1.38",
+          "Syncfusion.Blazor.Grid": "30.1.38",
+          "Syncfusion.Blazor.Navigations": "30.1.38",
+          "Syncfusion.Blazor.Popups": "30.1.38",
+          "Syncfusion.Blazor.Spinner": "30.1.38"
         },
         "compile": {
           "lib/net9.0/Syncfusion.Blazor.TreeGrid.dll": {
@@ -2775,7 +2798,7 @@
           "buildMultiTargeting/Syncfusion.Blazor.TreeGrid.props": {}
         }
       },
-      "Syncfusion.ExcelExport.Net.Core/29.2.11": {
+      "Syncfusion.ExcelExport.Net.Core/30.1.38": {
         "type": "package",
         "compile": {
           "lib/net9.0/Syncfusion.ExcelExport.Net.dll": {
@@ -2788,7 +2811,7 @@
           }
         }
       },
-      "Syncfusion.Licensing/29.2.11": {
+      "Syncfusion.Licensing/30.1.38": {
         "type": "package",
         "compile": {
           "lib/net9.0/Syncfusion.Licensing.dll": {}
@@ -2797,7 +2820,7 @@
           "lib/net9.0/Syncfusion.Licensing.dll": {}
         }
       },
-      "Syncfusion.PdfExport.Net.Core/29.2.11": {
+      "Syncfusion.PdfExport.Net.Core/30.1.38": {
         "type": "package",
         "compile": {
           "lib/net9.0/Syncfusion.PdfExport.Net.dll": {
@@ -3072,7 +3095,7 @@
           }
         }
       },
-      "System.Formats.Asn1/9.0.0": {
+      "System.Formats.Asn1/9.0.6": {
         "type": "package",
         "compile": {
           "lib/net9.0/System.Formats.Asn1.dll": {
@@ -3397,7 +3420,7 @@
           }
         }
       },
-      "System.Text.Json/9.0.0": {
+      "System.Text.Json/9.0.6": {
         "type": "package",
         "compile": {
           "lib/net9.0/System.Text.Json.dll": {
@@ -4241,10 +4264,10 @@
         "logo.png"
       ]
     },
-    "Microsoft.AspNetCore.Authorization/9.0.0": {
-      "sha512": "qDJlBC5pUQ/3o6/C6Vuo9CGKtV5TAe5AdKeHvDR2bgmw8vwPxsAy3KG5eU0i1C+iAUNbmq+iDTbiKt16f9pRiA==",
+    "Microsoft.AspNetCore.Authorization/9.0.6": {
+      "sha512": "FG/fHZAg2J9NKt+y2BH+fMjc+TqA7wlri/3PNtoSgvclMlr5iPshDLXHQgvS9l7IUzzfkqQ3/DWPYuA4OJu75A==",
       "type": "package",
-      "path": "microsoft.aspnetcore.authorization/9.0.0",
+      "path": "microsoft.aspnetcore.authorization/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4256,14 +4279,14 @@
         "lib/net9.0/Microsoft.AspNetCore.Authorization.xml",
         "lib/netstandard2.0/Microsoft.AspNetCore.Authorization.dll",
         "lib/netstandard2.0/Microsoft.AspNetCore.Authorization.xml",
-        "microsoft.aspnetcore.authorization.9.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.authorization.9.0.6.nupkg.sha512",
         "microsoft.aspnetcore.authorization.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Components/9.0.0": {
-      "sha512": "xKzY0LRqWrwuPVzKIF9k1kC21NrLmIE2qPhhKlInEAdYqNe8qcMoPWZy7fo1uScHkz5g73nTqDDra3+aAV7mTQ==",
+    "Microsoft.AspNetCore.Components/9.0.6": {
+      "sha512": "4WzUBnpxqm0Gvv3XX47h5g09LN4dtQpJjYW2LAfoaVeho5TLM00uDj2YHzjxQwcRTdrG7tZDCyf4V4wwRpjGcA==",
       "type": "package",
-      "path": "microsoft.aspnetcore.components/9.0.0",
+      "path": "microsoft.aspnetcore.components/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4271,14 +4294,14 @@
         "THIRD-PARTY-NOTICES.txt",
         "lib/net9.0/Microsoft.AspNetCore.Components.dll",
         "lib/net9.0/Microsoft.AspNetCore.Components.xml",
-        "microsoft.aspnetcore.components.9.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.components.9.0.6.nupkg.sha512",
         "microsoft.aspnetcore.components.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Components.Analyzers/9.0.0": {
-      "sha512": "maOE1qlJ9hf1Fb7PhFLw9bgP9mWckuDOcn1uKNt9/msdJG2YHl3cPRHojYa6CxliGHIXL8Da4qPgeUc4CaOoeg==",
+    "Microsoft.AspNetCore.Components.Analyzers/9.0.6": {
+      "sha512": "UXMjbezwMMoL21L20OB1BLGF9M1BFPzdWiezaiZSBG55z36BEXvs8hetKw7PiuytOdUqWFI1wkPd3MD9jpeKAw==",
       "type": "package",
-      "path": "microsoft.aspnetcore.components.analyzers/9.0.0",
+      "path": "microsoft.aspnetcore.components.analyzers/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4287,14 +4310,14 @@
         "analyzers/dotnet/cs/Microsoft.AspNetCore.Components.Analyzers.dll",
         "build/netstandard2.0/Microsoft.AspNetCore.Components.Analyzers.targets",
         "buildTransitive/netstandard2.0/Microsoft.AspNetCore.Components.Analyzers.targets",
-        "microsoft.aspnetcore.components.analyzers.9.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.components.analyzers.9.0.6.nupkg.sha512",
         "microsoft.aspnetcore.components.analyzers.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Components.Forms/9.0.0": {
-      "sha512": "orHGxDkbAa9syuaLVtZWOhNC8IddnCsDqpFaKjBj4zxe+B8cd6kcNf/t4Lv5hWBQ7mODiRCzEfKBnpU+GCHvbw==",
+    "Microsoft.AspNetCore.Components.Forms/9.0.6": {
+      "sha512": "GHdFdrU+9ePkuE7S2g7iu+Lg8FPBY9qGaK+FPSBHNx8ulEdrOHJhufb1FZH/m++NoJgcikOzJ14+eL96HfBr8g==",
       "type": "package",
-      "path": "microsoft.aspnetcore.components.forms/9.0.0",
+      "path": "microsoft.aspnetcore.components.forms/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4302,14 +4325,14 @@
         "THIRD-PARTY-NOTICES.txt",
         "lib/net9.0/Microsoft.AspNetCore.Components.Forms.dll",
         "lib/net9.0/Microsoft.AspNetCore.Components.Forms.xml",
-        "microsoft.aspnetcore.components.forms.9.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.components.forms.9.0.6.nupkg.sha512",
         "microsoft.aspnetcore.components.forms.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Components.QuickGrid/9.0.0": {
-      "sha512": "f5TQFg9/dcvRqbsCL9suYq59CCxoMc9gA4wxHtNZXh6geRQ/BZquz01d1Bk7XnvSkNuYPP2XtSbO+fVeTmq50A==",
+    "Microsoft.AspNetCore.Components.QuickGrid/9.0.6": {
+      "sha512": "WQN1HF1/RfeWGHbeHWmp+Jiv5Mqal8uBDfxeNU324u7yu0FbkyqGXrhK7tTRN6XaZER01Je8ACY6qU2AEh7Lxg==",
       "type": "package",
-      "path": "microsoft.aspnetcore.components.quickgrid/9.0.0",
+      "path": "microsoft.aspnetcore.components.quickgrid/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4322,16 +4345,16 @@
         "buildTransitive/Microsoft.AspNetCore.Components.QuickGrid.props",
         "lib/net9.0/Microsoft.AspNetCore.Components.QuickGrid.dll",
         "lib/net9.0/Microsoft.AspNetCore.Components.QuickGrid.xml",
-        "microsoft.aspnetcore.components.quickgrid.9.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.components.quickgrid.9.0.6.nupkg.sha512",
         "microsoft.aspnetcore.components.quickgrid.nuspec",
         "staticwebassets/Microsoft.AspNetCore.Components.QuickGrid.25o87uqmvr.bundle.scp.css",
         "staticwebassets/QuickGrid.razor.js"
       ]
     },
-    "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter/9.0.0": {
-      "sha512": "wuwI/hhrLkF3JEIEo8Id6awCZBe97/sNo80ilNotLiO6wEuKxQZvgJPajU7l/lfLzrmuXiWcMomNjSX99YUCBw==",
+    "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter/9.0.6": {
+      "sha512": "3PWmScEIZcgaZjNgPgsEdz7NNUPw8dtrYz7Sa2X50GjlmTiwdrr4d2cqAPrda1xM1bEa4yunaWnBRucGGmIb7g==",
       "type": "package",
-      "path": "microsoft.aspnetcore.components.quickgrid.entityframeworkadapter/9.0.0",
+      "path": "microsoft.aspnetcore.components.quickgrid.entityframeworkadapter/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4339,14 +4362,14 @@
         "THIRD-PARTY-NOTICES.txt",
         "lib/net9.0/Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll",
         "lib/net9.0/Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.xml",
-        "microsoft.aspnetcore.components.quickgrid.entityframeworkadapter.9.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.components.quickgrid.entityframeworkadapter.9.0.6.nupkg.sha512",
         "microsoft.aspnetcore.components.quickgrid.entityframeworkadapter.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Components.Web/9.0.0": {
-      "sha512": "ZfJwwV05T+268cnJsO6yfi9oXYLe3ATRAEk0VZgBMptA5HVsduIsnFLjhNOYT7+I8NolxDEx1CEW8yKe5xTb6Q==",
+    "Microsoft.AspNetCore.Components.Web/9.0.6": {
+      "sha512": "c+2B1DdgAOKXt+mMcZgeQPbdoW0Ro+783m+yPK/QQHhjV8cbkPBWXg6OMJC2Vzum5tfAC3coNhlmcLUUBwc3ZQ==",
       "type": "package",
-      "path": "microsoft.aspnetcore.components.web/9.0.0",
+      "path": "microsoft.aspnetcore.components.web/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4354,14 +4377,14 @@
         "THIRD-PARTY-NOTICES.txt",
         "lib/net9.0/Microsoft.AspNetCore.Components.Web.dll",
         "lib/net9.0/Microsoft.AspNetCore.Components.Web.xml",
-        "microsoft.aspnetcore.components.web.9.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.components.web.9.0.6.nupkg.sha512",
         "microsoft.aspnetcore.components.web.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/9.0.0": {
-      "sha512": "iWGrOsmmgz7wKc27SzC/rWrTuzl/jqWKIl/+YP7OL3mrDcADS/W5WFtmGkfQCAVGv0aZyck4CVfAVdjZLyyY8w==",
+    "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/9.0.6": {
+      "sha512": "7Wg5uVgPGSPVdk/ci+zMH1i5y5R5CJJFn+uxRs0RrDv6VSZZS8emqqN8SD4wRHqK/xeAUjWwew88PqBUToLoZw==",
       "type": "package",
-      "path": "microsoft.aspnetcore.diagnostics.entityframeworkcore/9.0.0",
+      "path": "microsoft.aspnetcore.diagnostics.entityframeworkcore/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4369,14 +4392,14 @@
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net9.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll",
         "lib/net9.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.xml",
-        "microsoft.aspnetcore.diagnostics.entityframeworkcore.9.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.diagnostics.entityframeworkcore.9.0.6.nupkg.sha512",
         "microsoft.aspnetcore.diagnostics.entityframeworkcore.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Metadata/9.0.0": {
-      "sha512": "X81C891nMuWgzNHyZ0C3s+blSDxRHzQHDFYQoOKtFvFuxGq3BbkLbc5CfiCqIzA/sWIfz6u8sGBgwntQwBJWBw==",
+    "Microsoft.AspNetCore.Metadata/9.0.6": {
+      "sha512": "SZAmFKGsQPP/xyDir96J5UNTAdCsfeCpPwFO9EewIcgQ8gUr3KHmn4CTC2HmHIDdiTujGC2T3VBcSxmrY+3n/g==",
       "type": "package",
-      "path": "microsoft.aspnetcore.metadata/9.0.0",
+      "path": "microsoft.aspnetcore.metadata/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4388,7 +4411,7 @@
         "lib/net9.0/Microsoft.AspNetCore.Metadata.xml",
         "lib/netstandard2.0/Microsoft.AspNetCore.Metadata.dll",
         "lib/netstandard2.0/Microsoft.AspNetCore.Metadata.xml",
-        "microsoft.aspnetcore.metadata.9.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.metadata.9.0.6.nupkg.sha512",
         "microsoft.aspnetcore.metadata.nuspec"
       ]
     },
@@ -5815,10 +5838,10 @@
         "microsoft.dotnet.scaffolding.shared.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore/9.0.0": {
-      "sha512": "wpG+nfnfDAw87R3ovAsUmjr3MZ4tYXf6bFqEPVAIKE6IfPml3DS//iX0DBnf8kWn5ZHSO5oi1m4d/Jf+1LifJQ==",
+    "Microsoft.EntityFrameworkCore/9.0.6": {
+      "sha512": "r5hzM6Bhw4X3z28l5vmsaCPjk9VsQP4zaaY01THh1SAYjgTMVadYIvpNkCfmrv/Klks6aIf2A9eY7cpGZab/hg==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore/9.0.0",
+      "path": "microsoft.entityframeworkcore/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -5827,14 +5850,14 @@
         "buildTransitive/net8.0/Microsoft.EntityFrameworkCore.props",
         "lib/net8.0/Microsoft.EntityFrameworkCore.dll",
         "lib/net8.0/Microsoft.EntityFrameworkCore.xml",
-        "microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
+        "microsoft.entityframeworkcore.9.0.6.nupkg.sha512",
         "microsoft.entityframeworkcore.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Abstractions/9.0.0": {
-      "sha512": "fnmifFL8KaA4ZNLCVgfjCWhZUFxkrDInx5hR4qG7Q8IEaSiy/6VOSRFyx55oH7MV4y7wM3J3EE90nSpcVBI44Q==",
+    "Microsoft.EntityFrameworkCore.Abstractions/9.0.6": {
+      "sha512": "7MkhPK8emb8hfOx/mFVvHuIHxQ+mH2YdlK4sFUXgsGlvR0A44vsmd2wcHavZOTTzaKhN+aFUVy3zmkztKmTo+A==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.abstractions/9.0.0",
+      "path": "microsoft.entityframeworkcore.abstractions/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -5842,28 +5865,28 @@
         "PACKAGE.md",
         "lib/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll",
         "lib/net8.0/Microsoft.EntityFrameworkCore.Abstractions.xml",
-        "microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",
+        "microsoft.entityframeworkcore.abstractions.9.0.6.nupkg.sha512",
         "microsoft.entityframeworkcore.abstractions.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Analyzers/9.0.0": {
-      "sha512": "Qje+DzXJOKiXF72SL0XxNlDtTkvWWvmwknuZtFahY5hIQpRKO59qnGuERIQ3qlzuq5x4bAJ8WMbgU5DLhBgeOQ==",
+    "Microsoft.EntityFrameworkCore.Analyzers/9.0.6": {
+      "sha512": "VKggHNQC5FCn3/vooaIM/4aEjGmrmWm78IrdRLz9lLV0Rm9bVHEr/jiWApDkU0U9ec2xGAilvQqJ5mMX7QC2cw==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.analyzers/9.0.0",
+      "path": "microsoft.entityframeworkcore.analyzers/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "analyzers/dotnet/cs/Microsoft.EntityFrameworkCore.Analyzers.dll",
         "docs/PACKAGE.md",
-        "microsoft.entityframeworkcore.analyzers.9.0.0.nupkg.sha512",
+        "microsoft.entityframeworkcore.analyzers.9.0.6.nupkg.sha512",
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Design/9.0.0": {
-      "sha512": "Pqo8I+yHJ3VQrAoY0hiSncf+5P7gN/RkNilK5e+/K/yKh+yAWxdUAI6t0TG26a9VPlCa9FhyklzyFvRyj3YG9A==",
+    "Microsoft.EntityFrameworkCore.Design/9.0.6": {
+      "sha512": "6xabdZH2hOqSocjDIOd0FZLslH7kDX8ODY4lBR298GwkAkxuItjNgZHuRbTi9hmfDS2Hh02r+d17Fa8XT4lKLQ==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.design/9.0.0",
+      "path": "microsoft.entityframeworkcore.design/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -5872,14 +5895,14 @@
         "build/net8.0/Microsoft.EntityFrameworkCore.Design.props",
         "lib/net8.0/Microsoft.EntityFrameworkCore.Design.dll",
         "lib/net8.0/Microsoft.EntityFrameworkCore.Design.xml",
-        "microsoft.entityframeworkcore.design.9.0.0.nupkg.sha512",
+        "microsoft.entityframeworkcore.design.9.0.6.nupkg.sha512",
         "microsoft.entityframeworkcore.design.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Relational/9.0.0": {
-      "sha512": "j+msw6fWgAE9M3Q/5B9Uhv7pdAdAQUvFPJAiBJmoy+OXvehVbfbCE8ftMAa51Uo2ZeiqVnHShhnv4Y4UJJmUzA==",
+    "Microsoft.EntityFrameworkCore.Relational/9.0.6": {
+      "sha512": "Ht6OT17sYnO31Dx+hX72YHrc5kZt53g5napaw0FpyIekXCvb+gUVvufEG55Fa7taFm8ccy0Vzs+JVNR9NL0JlA==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.relational/9.0.0",
+      "path": "microsoft.entityframeworkcore.relational/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -5887,14 +5910,14 @@
         "PACKAGE.md",
         "lib/net8.0/Microsoft.EntityFrameworkCore.Relational.dll",
         "lib/net8.0/Microsoft.EntityFrameworkCore.Relational.xml",
-        "microsoft.entityframeworkcore.relational.9.0.0.nupkg.sha512",
+        "microsoft.entityframeworkcore.relational.9.0.6.nupkg.sha512",
         "microsoft.entityframeworkcore.relational.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.SqlServer/9.0.0": {
-      "sha512": "3Y7/3kgz6C5kRFeELLZ5VeIeBlxB31x/ywscbN4r1JqTXIy8WWGo0CqzuOxBy4UzaTzpifElAZvv4fyD3ZQK5w==",
+    "Microsoft.EntityFrameworkCore.SqlServer/9.0.6": {
+      "sha512": "hr8vJSL1KXkXdgvNYY5peSygSZkoKQ+r6umXGMLoggBQ9NMbf0jo8p13Hy0biON2IS03ixOl0g4Mgw0hjgTksw==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.sqlserver/9.0.0",
+      "path": "microsoft.entityframeworkcore.sqlserver/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -5902,21 +5925,21 @@
         "PACKAGE.md",
         "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll",
         "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.xml",
-        "microsoft.entityframeworkcore.sqlserver.9.0.0.nupkg.sha512",
+        "microsoft.entityframeworkcore.sqlserver.9.0.6.nupkg.sha512",
         "microsoft.entityframeworkcore.sqlserver.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Tools/9.0.0": {
-      "sha512": "qjw+3/CaWiWnyVblvKHY11rQKH5eHQDSbtxjgxVhxGJrOpmjZ3JxtD0pjwkr4y/ELubsXr6xDfBcRJSkX/9hWQ==",
+    "Microsoft.EntityFrameworkCore.Tools/9.0.6": {
+      "sha512": "2Qs+OnYPOrfb5wpSXNGdm9v3QattLhou26xamaICIE9jqWAW7xdzDlY/yXRz6zKFLnzRH70IM+XXYVElEVeQ9Q==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.tools/9.0.0",
+      "path": "microsoft.entityframeworkcore.tools/9.0.6",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "docs/PACKAGE.md",
-        "microsoft.entityframeworkcore.tools.9.0.0.nupkg.sha512",
+        "microsoft.entityframeworkcore.tools.9.0.6.nupkg.sha512",
         "microsoft.entityframeworkcore.tools.nuspec",
         "tools/EntityFrameworkCore.PS2.psd1",
         "tools/EntityFrameworkCore.PS2.psm1",
@@ -5931,10 +5954,10 @@
         "tools/netcoreapp2.0/any/ef.runtimeconfig.json"
       ]
     },
-    "Microsoft.Extensions.Caching.Abstractions/9.0.0": {
-      "sha512": "FPWZAa9c0H4dvOj351iR1jkUIs4u9ykL4Bm592yhjDyO5lCoWd+TMAHx2EMbarzUvCvgjWjJIoC6//Q9kH6YhA==",
+    "Microsoft.Extensions.Caching.Abstractions/9.0.6": {
+      "sha512": "bL/xQsVNrdVkzjP5yjX4ndkQ03H3+Bk3qPpl+AMCEJR2RkfgAYmoQ/xXffPV7is64+QHShnhA12YAaFmNbfM+A==",
       "type": "package",
-      "path": "microsoft.extensions.caching.abstractions/9.0.0",
+      "path": "microsoft.extensions.caching.abstractions/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -5954,15 +5977,15 @@
         "lib/net9.0/Microsoft.Extensions.Caching.Abstractions.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.xml",
-        "microsoft.extensions.caching.abstractions.9.0.0.nupkg.sha512",
+        "microsoft.extensions.caching.abstractions.9.0.6.nupkg.sha512",
         "microsoft.extensions.caching.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Caching.Memory/9.0.0": {
-      "sha512": "zbnPX/JQ0pETRSUG9fNPBvpIq42Aufvs15gGYyNIMhCun9yhmWihz0WgsI7bSDPjxWTKBf8oX/zv6v2uZ3W9OQ==",
+    "Microsoft.Extensions.Caching.Memory/9.0.6": {
+      "sha512": "qPW2d798tBPZcRmrlaBJqyChf2+0odDdE+0Lxvrr0ywkSNl1oNMK8AKrOfDwyXyjuLCv0ua7p6nrUExCeXhCcg==",
       "type": "package",
-      "path": "microsoft.extensions.caching.memory/9.0.0",
+      "path": "microsoft.extensions.caching.memory/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -5982,15 +6005,15 @@
         "lib/net9.0/Microsoft.Extensions.Caching.Memory.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.xml",
-        "microsoft.extensions.caching.memory.9.0.0.nupkg.sha512",
+        "microsoft.extensions.caching.memory.9.0.6.nupkg.sha512",
         "microsoft.extensions.caching.memory.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Configuration.Abstractions/9.0.0": {
-      "sha512": "lqvd7W3FGKUO1+ZoUEMaZ5XDJeWvjpy2/M/ptCGz3tXLD4HWVaSzjufsAsjemasBEg+2SxXVtYVvGt5r2nKDlg==",
+    "Microsoft.Extensions.Configuration.Abstractions/9.0.6": {
+      "sha512": "3GgMIi2jP8g1fBW93Z9b9Unamc0SIsgyhiCmC91gq4loTixK9vQMuxxUsfJ1kRGwn+/FqLKwOHqmn0oYWn3Fvw==",
       "type": "package",
-      "path": "microsoft.extensions.configuration.abstractions/9.0.0",
+      "path": "microsoft.extensions.configuration.abstractions/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -6010,15 +6033,15 @@
         "lib/net9.0/Microsoft.Extensions.Configuration.Abstractions.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.xml",
-        "microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+        "microsoft.extensions.configuration.abstractions.9.0.6.nupkg.sha512",
         "microsoft.extensions.configuration.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.DependencyInjection/9.0.0": {
-      "sha512": "MCPrg7v3QgNMr0vX4vzRXvkNGgLg8vKWX0nKCWUxu2uPyMsaRgiRc1tHBnbTcfJMhMKj2slE/j2M9oGkd25DNw==",
+    "Microsoft.Extensions.DependencyInjection/9.0.6": {
+      "sha512": "vS65HMo5RS10DD543fknsyVDxihMcVxVn3/hNaILgBxWYnOLxWIeCIO9X0QFuCvPRNjClvXe9Aj8KaQNx7vFkQ==",
       "type": "package",
-      "path": "microsoft.extensions.dependencyinjection/9.0.0",
+      "path": "microsoft.extensions.dependencyinjection/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -6040,15 +6063,15 @@
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.xml",
         "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll",
         "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.xml",
-        "microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.9.0.6.nupkg.sha512",
         "microsoft.extensions.dependencyinjection.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.0": {
-      "sha512": "+6f2qv2a3dLwd5w6JanPIPs47CxRbnk+ZocMJUhv9NxP88VlOcJYZs9jY+MYSjxvady08bUZn6qgiNh7DadGgg==",
+    "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.6": {
+      "sha512": "0Zn6nR/6g+90MxskZyOOMPQvnPnrrGu6bytPwkV+azDcTtCSuQ1+GJUrg8Klmnrjk1i6zMpw2lXijl+tw7Q3kA==",
       "type": "package",
-      "path": "microsoft.extensions.dependencyinjection.abstractions/9.0.0",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -6070,15 +6093,15 @@
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
         "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
         "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
-        "microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512",
         "microsoft.extensions.dependencyinjection.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.DependencyModel/9.0.0": {
-      "sha512": "saxr2XzwgDU77LaQfYFXmddEDRUKHF4DaGMZkNB3qjdVSZlax3//dGJagJkKrGMIPNZs2jVFXITyCCR6UHJNdA==",
+    "Microsoft.Extensions.DependencyModel/9.0.6": {
+      "sha512": "grVU1ixgMHp+kuhIgvEzhE73jXRY6XmxNBPWrotmbjB9AvJvkwHnIzm1JlOsPpyixFgnzreh/bFBMJAjveX+fQ==",
       "type": "package",
-      "path": "microsoft.extensions.dependencymodel/9.0.0",
+      "path": "microsoft.extensions.dependencymodel/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -6098,15 +6121,15 @@
         "lib/net9.0/Microsoft.Extensions.DependencyModel.xml",
         "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll",
         "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.xml",
-        "microsoft.extensions.dependencymodel.9.0.0.nupkg.sha512",
+        "microsoft.extensions.dependencymodel.9.0.6.nupkg.sha512",
         "microsoft.extensions.dependencymodel.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Logging/9.0.0": {
-      "sha512": "crjWyORoug0kK7RSNJBTeSE6VX8IQgLf3nUpTB9m62bPXp/tzbnOsnbe8TXEG0AASNaKZddnpHKw7fET8E++Pg==",
+    "Microsoft.Extensions.Logging/9.0.6": {
+      "sha512": "XBzjitTFaQhF8EbJ645vblZezV1p52ePTxKHoVkRidHF11Xkjxg94qr0Rvp2qyxK2vBJ4OIZ41NB15YUyxTGMQ==",
       "type": "package",
-      "path": "microsoft.extensions.logging/9.0.0",
+      "path": "microsoft.extensions.logging/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -6128,15 +6151,15 @@
         "lib/netstandard2.0/Microsoft.Extensions.Logging.xml",
         "lib/netstandard2.1/Microsoft.Extensions.Logging.dll",
         "lib/netstandard2.1/Microsoft.Extensions.Logging.xml",
-        "microsoft.extensions.logging.9.0.0.nupkg.sha512",
+        "microsoft.extensions.logging.9.0.6.nupkg.sha512",
         "microsoft.extensions.logging.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Logging.Abstractions/9.0.0": {
-      "sha512": "g0UfujELzlLbHoVG8kPKVBaW470Ewi+jnptGS9KUi6jcb+k2StujtK3m26DFSGGwQ/+bVgZfsWqNzlP6YOejvw==",
+    "Microsoft.Extensions.Logging.Abstractions/9.0.6": {
+      "sha512": "LFnyBNK7WtFmKdnHu3v0HOYQ8BcjYuy0jdC9pgCJ/rbLKoJEG9/dBzSKMEeeWDbDeoWS0TIxOC8a9CM5ufca3A==",
       "type": "package",
-      "path": "microsoft.extensions.logging.abstractions/9.0.0",
+      "path": "microsoft.extensions.logging.abstractions/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -6199,15 +6222,15 @@
         "lib/net9.0/Microsoft.Extensions.Logging.Abstractions.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.xml",
-        "microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
+        "microsoft.extensions.logging.abstractions.9.0.6.nupkg.sha512",
         "microsoft.extensions.logging.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Options/9.0.0": {
-      "sha512": "y2146b3jrPI3Q0lokKXdKLpmXqakYbDIPDV6r3M8SqvSf45WwOTzkyfDpxnZXJsJQEpAsAqjUq5Pu8RCJMjubg==",
+    "Microsoft.Extensions.Options/9.0.6": {
+      "sha512": "wUPhNM1zsI58Dy10xRdF2+pnsisiUuETg5ZBncyAEEUm/CQ9Q1vmivyUWH8RDbAlqyixf2dJNQ2XZb7HsKUEQw==",
       "type": "package",
-      "path": "microsoft.extensions.options/9.0.0",
+      "path": "microsoft.extensions.options/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -6244,15 +6267,15 @@
         "lib/netstandard2.0/Microsoft.Extensions.Options.xml",
         "lib/netstandard2.1/Microsoft.Extensions.Options.dll",
         "lib/netstandard2.1/Microsoft.Extensions.Options.xml",
-        "microsoft.extensions.options.9.0.0.nupkg.sha512",
+        "microsoft.extensions.options.9.0.6.nupkg.sha512",
         "microsoft.extensions.options.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Primitives/9.0.0": {
-      "sha512": "N3qEBzmLMYiASUlKxxFIISP4AiwuPTHF5uCh+2CWSwwzAJiIYx0kBJsS30cp1nvhSySFAVi30jecD307jV+8Kg==",
+    "Microsoft.Extensions.Primitives/9.0.6": {
+      "sha512": "BHniU24QV67qp1pJknqYSofAPYGmijGI8D+ci9yfw33iuFdyOeB9lWTg78ThyYLyQwZw3s0vZ36VMb0MqbUuLw==",
       "type": "package",
-      "path": "microsoft.extensions.primitives/9.0.0",
+      "path": "microsoft.extensions.primitives/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -6272,7 +6295,7 @@
         "lib/net9.0/Microsoft.Extensions.Primitives.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Primitives.xml",
-        "microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+        "microsoft.extensions.primitives.9.0.6.nupkg.sha512",
         "microsoft.extensions.primitives.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -6452,10 +6475,10 @@
         "microsoft.identitymodel.tokens.nuspec"
       ]
     },
-    "Microsoft.JSInterop/9.0.0": {
-      "sha512": "efQKxKUPe8OuH0hRiYsvBJkhhPzIYFNcr9+3wanQ7Bch/wr1JWNd90GYiPLtkSHepE1zMEoaLkAxi5N5/eyC4Q==",
+    "Microsoft.JSInterop/9.0.6": {
+      "sha512": "IS9tI2pnpeoX+d4CO4FuTsm+6uymanPGSpBhHefTfMNIwBUvwLIcXch4su0QEW4MSslYdDJ9yzz2+OuIUuI5lw==",
       "type": "package",
-      "path": "microsoft.jsinterop/9.0.0",
+      "path": "microsoft.jsinterop/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -6463,7 +6486,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net9.0/Microsoft.JSInterop.dll",
         "lib/net9.0/Microsoft.JSInterop.xml",
-        "microsoft.jsinterop.9.0.0.nupkg.sha512",
+        "microsoft.jsinterop.9.0.6.nupkg.sha512",
         "microsoft.jsinterop.nuspec"
       ]
     },
@@ -7291,10 +7314,10 @@
         "version.txt"
       ]
     },
-    "Syncfusion.Blazor.Buttons/29.2.11": {
-      "sha512": "Cxojh/cNWbPZD3z2ZOh8ySRbIA4Qi8RRXxXqi/AWR3q+ZUiJMA1fRV/CrHR9JH90xEyZYV0mi1QtYGHHiYGwDw==",
+    "Syncfusion.Blazor.Buttons/30.1.38": {
+      "sha512": "Cu39O8NxO+tg8RTJUfvFwrNTJ3oHTzqSMuGKClD4uVdr31IA5SpMXJbznOuBQ9F09clDUpROFdAS+vmTXrfTAQ==",
       "type": "package",
-      "path": "syncfusion.blazor.buttons/29.2.11",
+      "path": "syncfusion.blazor.buttons/30.1.38",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7311,15 +7334,15 @@
         "lib/net9.0/Syncfusion.Blazor.Buttons.xml",
         "staticwebassets/scripts/sf-floating-action-button.min.js",
         "staticwebassets/scripts/sf-speeddial.min.js",
-        "syncfusion.blazor.buttons.29.2.11.nupkg.sha512",
+        "syncfusion.blazor.buttons.30.1.38.nupkg.sha512",
         "syncfusion.blazor.buttons.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Blazor.Calendars/29.2.11": {
-      "sha512": "WUrbfBSYFgSV+bvO1jPSJb9nIVQvSZhB0oG8DmBK8i/saFZ4+LLcUbROXmWzcDBuQOYdpCyMEBEgGLmpfPsAWw==",
+    "Syncfusion.Blazor.Calendars/30.1.38": {
+      "sha512": "Mq/hKym9/2YqXt2YUvZCQY9rLtHLoaawEArfo+YMbAR3TxQVxvngsOYpMbVeGs75tk/qBNP7ohzVICl3XO2xqw==",
       "type": "package",
-      "path": "syncfusion.blazor.calendars/29.2.11",
+      "path": "syncfusion.blazor.calendars/30.1.38",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7338,15 +7361,15 @@
         "staticwebassets/scripts/sf-datepicker.min.js",
         "staticwebassets/scripts/sf-daterangepicker.min.js",
         "staticwebassets/scripts/sf-timepicker.min.js",
-        "syncfusion.blazor.calendars.29.2.11.nupkg.sha512",
+        "syncfusion.blazor.calendars.30.1.38.nupkg.sha512",
         "syncfusion.blazor.calendars.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Blazor.Core/29.2.11": {
-      "sha512": "t/+xZD5zMGQ2un4s6ewu5TbcbyQDAQ0bpUk2xuyTlR+2HjdgvUGjaKV/ARjIkE5+Pr77JhbT0Jr/ewlVVcoZMw==",
+    "Syncfusion.Blazor.Core/30.1.38": {
+      "sha512": "PzxlyFsp1Y81VHpMgX/RuzfBeIdjxMC8+ZTJK6Z8vVXwpLDmH1mnWOFM6PnPpEHTAGCAF0fD0hy4Mx55npvqAg==",
       "type": "package",
-      "path": "syncfusion.blazor.core/29.2.11",
+      "path": "syncfusion.blazor.core/30.1.38",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7367,15 +7390,15 @@
         "staticwebassets/scripts/svgbase.min.js",
         "staticwebassets/scripts/syncfusion-blazor-base.min.js",
         "staticwebassets/scripts/syncfusion-blazor.min.js",
-        "syncfusion.blazor.core.29.2.11.nupkg.sha512",
+        "syncfusion.blazor.core.30.1.38.nupkg.sha512",
         "syncfusion.blazor.core.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Blazor.Data/29.2.11": {
-      "sha512": "q++C2CirRXfBOXPh27MhGlG+Wy5DYiCAvMf0ywJjv3HKhuo4cfsWVklG6gEmfRIVaesBW/dVvqOKqK8AMdiubg==",
+    "Syncfusion.Blazor.Data/30.1.38": {
+      "sha512": "ucAuqDcrW6XJ6lmLCluAqbtQBva7Vcir8X46PyMRPX67ehFngZldK4p7Oo4US2CismkLKxXUth7TuLxNayFh7A==",
       "type": "package",
-      "path": "syncfusion.blazor.data/29.2.11",
+      "path": "syncfusion.blazor.data/30.1.38",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7391,15 +7414,15 @@
         "lib/net9.0/Syncfusion.Blazor.Data.dll",
         "lib/net9.0/Syncfusion.Blazor.Data.xml",
         "staticwebassets/scripts/data.min.js",
-        "syncfusion.blazor.data.29.2.11.nupkg.sha512",
+        "syncfusion.blazor.data.30.1.38.nupkg.sha512",
         "syncfusion.blazor.data.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Blazor.DropDowns/29.2.11": {
-      "sha512": "BGEvBMuF2Elk9Rv+vDSQ1yvArzMm1/LPHQoJ9MCzoS4IxQ2VcSGUr7GlJWf9JegOne968NXStgfOStv1vGkZZQ==",
+    "Syncfusion.Blazor.DropDowns/30.1.38": {
+      "sha512": "RtSY2sSFfhL6UO+Ok7M3Ir96UUFVEHpJbhIi+IARHWlUPK3f+epHDOBz47xw8Go7CZbmPiIHrhAblhu4LCdwRA==",
       "type": "package",
-      "path": "syncfusion.blazor.dropdowns/29.2.11",
+      "path": "syncfusion.blazor.dropdowns/30.1.38",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7419,15 +7442,15 @@
         "staticwebassets/scripts/sf-mention.min.js",
         "staticwebassets/scripts/sf-multiselect.min.js",
         "staticwebassets/scripts/sortable.min.js",
-        "syncfusion.blazor.dropdowns.29.2.11.nupkg.sha512",
+        "syncfusion.blazor.dropdowns.30.1.38.nupkg.sha512",
         "syncfusion.blazor.dropdowns.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Blazor.Grid/29.2.11": {
-      "sha512": "aseHsDVKafUcG+SgjE/rsslsiMDPK+qqZoNBSaI/QQzim1wLK4WketGFPRCiiy4vDkjm35vkayxOos8643FmZA==",
+    "Syncfusion.Blazor.Grid/30.1.38": {
+      "sha512": "rmyJ0sdPDr7+FjGzbGSZJPMzu+X+o0teNY9O9OAQrsGIvg3dbU4+rMkAQ4WrUg+CNOwtqAbrUyZYyUzbXvlafQ==",
       "type": "package",
-      "path": "syncfusion.blazor.grid/29.2.11",
+      "path": "syncfusion.blazor.grid/30.1.38",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7443,15 +7466,15 @@
         "lib/net9.0/Syncfusion.Blazor.Grids.dll",
         "lib/net9.0/Syncfusion.Blazor.Grids.xml",
         "staticwebassets/scripts/sf-grid.min.js",
-        "syncfusion.blazor.grid.29.2.11.nupkg.sha512",
+        "syncfusion.blazor.grid.30.1.38.nupkg.sha512",
         "syncfusion.blazor.grid.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Blazor.Inputs/29.2.11": {
-      "sha512": "W1eGGfqy1wxgVluldmogMw9htgRwO9PwjDefo8u/FUePB2q/d3SrLaa4GsVrdaDeGthh/DqLIry8uHivAm4/oA==",
+    "Syncfusion.Blazor.Inputs/30.1.38": {
+      "sha512": "04+6bp/RZMmA9w4OUzc/f3MZiKtYOo6KMuL9MlW+XrC7M0hxCW67W78fTI0DxTQiwZgzdvLT6C+YekcC9LI+nA==",
       "type": "package",
-      "path": "syncfusion.blazor.inputs/29.2.11",
+      "path": "syncfusion.blazor.inputs/30.1.38",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7477,15 +7500,40 @@
         "staticwebassets/scripts/sf-textarea.min.js",
         "staticwebassets/scripts/sf-textbox.min.js",
         "staticwebassets/scripts/sf-uploader.min.js",
-        "syncfusion.blazor.inputs.29.2.11.nupkg.sha512",
+        "syncfusion.blazor.inputs.30.1.38.nupkg.sha512",
         "syncfusion.blazor.inputs.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Blazor.Lists/29.2.11": {
-      "sha512": "WOY7Q25+qxVgJQXrOCV4BSsXB1Zl2l4upclvVUbXnTs18j+O+N3osr1rjnuvrxiBZbRoC3kPehhJpgQWnzW04Q==",
+    "Syncfusion.Blazor.Layouts/30.1.38": {
+      "sha512": "lJuLQkScRKuhgzG6V+U1XavN+H1re+gkqPQ5DcOCWhUiXyYBcMKmW/GQx15z4HlgvyJ0goxzdp6anVYqW50q+A==",
       "type": "package",
-      "path": "syncfusion.blazor.lists/29.2.11",
+      "path": "syncfusion.blazor.layouts/30.1.38",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "build/Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "build/Syncfusion.Blazor.Layouts.props",
+        "buildMultiTargeting/Syncfusion.Blazor.Layouts.props",
+        "buildTransitive/Syncfusion.Blazor.Layouts.props",
+        "lib/net8.0/Syncfusion.Blazor.Layouts.dll",
+        "lib/net8.0/Syncfusion.Blazor.Layouts.xml",
+        "lib/net9.0/Syncfusion.Blazor.Layouts.dll",
+        "lib/net9.0/Syncfusion.Blazor.Layouts.xml",
+        "staticwebassets/scripts/sf-dashboard-layout.min.js",
+        "staticwebassets/scripts/sf-splitter.min.js",
+        "syncfusion.blazor.layouts.30.1.38.nupkg.sha512",
+        "syncfusion.blazor.layouts.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Blazor.Lists/30.1.38": {
+      "sha512": "jqZHqWd9WD9pj3hnfPgkWD2LVmDjgv4/X3es0K8WWugEauuKJ6WbN3iX81WY2WZZyrGlr8020MXRA7cIRNZ2TQ==",
+      "type": "package",
+      "path": "syncfusion.blazor.lists/30.1.38",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7501,15 +7549,15 @@
         "lib/net9.0/Syncfusion.Blazor.Lists.dll",
         "lib/net9.0/Syncfusion.Blazor.Lists.xml",
         "staticwebassets/scripts/sf-listview.min.js",
-        "syncfusion.blazor.lists.29.2.11.nupkg.sha512",
+        "syncfusion.blazor.lists.30.1.38.nupkg.sha512",
         "syncfusion.blazor.lists.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Blazor.Navigations/29.2.11": {
-      "sha512": "fmEkq+tTAkhz4idu3ovS+9UsF6kgjOv9NquoPBYrev1XqD1BEcq+cCTvYRAMOYEKhoIurD6ep459v+QacF9f5w==",
+    "Syncfusion.Blazor.Navigations/30.1.38": {
+      "sha512": "+biWQYzGvjMzpKxgAW+ISZRkdD4I6FzC8oPdGWZkvWjb2Sz+T7uhmteGjweXMuD+C9IxpZNDrvC6oNGfBNXRLg==",
       "type": "package",
-      "path": "syncfusion.blazor.navigations/29.2.11",
+      "path": "syncfusion.blazor.navigations/30.1.38",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7537,15 +7585,15 @@
         "staticwebassets/scripts/sf-tab.min.js",
         "staticwebassets/scripts/sf-toolbar.min.js",
         "staticwebassets/scripts/sf-treeview.min.js",
-        "syncfusion.blazor.navigations.29.2.11.nupkg.sha512",
+        "syncfusion.blazor.navigations.30.1.38.nupkg.sha512",
         "syncfusion.blazor.navigations.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Blazor.Notifications/29.2.11": {
-      "sha512": "Ou7uffKVoL81fb4/S4LR75e+S5uS6JB5mrP75e8noCP+/gvcKIenQnPW1Tey42XNcSa9CyiMe2olKR8Lg9r2Ug==",
+    "Syncfusion.Blazor.Notifications/30.1.38": {
+      "sha512": "C2WdL9jK5e4oN6rd0AJSt+SXIY/Fu1enRXMf9mAa8P9j/OsTrerdjU9TJkxEpt+Ls86b58g3On73Xif0+2Tj9w==",
       "type": "package",
-      "path": "syncfusion.blazor.notifications/29.2.11",
+      "path": "syncfusion.blazor.notifications/30.1.38",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7561,15 +7609,15 @@
         "lib/net9.0/Syncfusion.Blazor.Notifications.dll",
         "lib/net9.0/Syncfusion.Blazor.Notifications.xml",
         "staticwebassets/scripts/sf-toast.min.js",
-        "syncfusion.blazor.notifications.29.2.11.nupkg.sha512",
+        "syncfusion.blazor.notifications.30.1.38.nupkg.sha512",
         "syncfusion.blazor.notifications.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Blazor.Popups/29.2.11": {
-      "sha512": "FLjJVmttIfK2an8VUGoOvRLpaBvyJ1WDMhVAiIQpgmOhUHYY396yjWU2M2C/pFrVoBwgMi7t0iIp33RKQHm66g==",
+    "Syncfusion.Blazor.Popups/30.1.38": {
+      "sha512": "fvBlQ+I1JOx4hdywEansUJm7eFu+X/kU/TER30uyfq9+Sk7wjgl2qojxDFNEGU19mPMwtA9yL06BNNewRwI7dQ==",
       "type": "package",
-      "path": "syncfusion.blazor.popups/29.2.11",
+      "path": "syncfusion.blazor.popups/30.1.38",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7586,15 +7634,15 @@
         "lib/net9.0/Syncfusion.Blazor.Popups.xml",
         "staticwebassets/scripts/sf-dialog.min.js",
         "staticwebassets/scripts/sf-tooltip.min.js",
-        "syncfusion.blazor.popups.29.2.11.nupkg.sha512",
+        "syncfusion.blazor.popups.30.1.38.nupkg.sha512",
         "syncfusion.blazor.popups.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Blazor.Spinner/29.2.11": {
-      "sha512": "UfJJTjtgsskoeTiByZUSlIovKettTzpS2cut5GOUEtkX3gzdMYL4ZAcKqdAYF+x1FJAnE9ZP9UJ9uQuzzLtO6Q==",
+    "Syncfusion.Blazor.Spinner/30.1.38": {
+      "sha512": "H9YL3H1/Ce5ETqdtIoW7OyDP0h4yXkSjyJGrXVicrFqLCbnoW7mZWyZD/eHJZy+CJxLUoTVDtK9Wo+rK0x7H1g==",
       "type": "package",
-      "path": "syncfusion.blazor.spinner/29.2.11",
+      "path": "syncfusion.blazor.spinner/30.1.38",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7611,15 +7659,15 @@
         "lib/net9.0/Syncfusion.Blazor.Spinner.xml",
         "staticwebassets/scripts/sf-spinner.min.js",
         "staticwebassets/scripts/spinner.min.js",
-        "syncfusion.blazor.spinner.29.2.11.nupkg.sha512",
+        "syncfusion.blazor.spinner.30.1.38.nupkg.sha512",
         "syncfusion.blazor.spinner.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Blazor.SplitButtons/29.2.11": {
-      "sha512": "7CzGy84CkohrAaLx5yefTQkwiFcAP2xZ0DemOis6B3FDMGIHM1YM0jdo70QDIlhXJgTEWVjXDq4NoaI0OLEwmA==",
+    "Syncfusion.Blazor.SplitButtons/30.1.38": {
+      "sha512": "or/9P3fewmwlkjqRvQBy0r6PMyxneP0fw+yH7gHQttETOd8mNb4uV68HxInwZiSQriR+tn7+nxV4USGEnk4vHQ==",
       "type": "package",
-      "path": "syncfusion.blazor.splitbuttons/29.2.11",
+      "path": "syncfusion.blazor.splitbuttons/30.1.38",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7636,15 +7684,15 @@
         "lib/net9.0/Syncfusion.Blazor.SplitButtons.xml",
         "staticwebassets/scripts/sf-drop-down-button.min.js",
         "staticwebassets/scripts/splitbuttonsbase.min.js",
-        "syncfusion.blazor.splitbuttons.29.2.11.nupkg.sha512",
+        "syncfusion.blazor.splitbuttons.30.1.38.nupkg.sha512",
         "syncfusion.blazor.splitbuttons.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Blazor.Themes/29.2.11": {
-      "sha512": "S61HgsaBvudc4S2XDnEt/2Qb5LSGCSmnrdnokOJDG/vc073/GmZNRBfb3e0Yrn6B+hHiRClvROz+MExBQQzpyw==",
+    "Syncfusion.Blazor.Themes/30.1.38": {
+      "sha512": "WSYf4LfYgCiyvBMa8QbKxyUJpSre9QZQgEjJF4xhAeo7iClj4+qhQ0LfLOnHxaZvy9jSRyvVMgNfHol2Q7R41A==",
       "type": "package",
-      "path": "syncfusion.blazor.themes/29.2.11",
+      "path": "syncfusion.blazor.themes/30.1.38",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7659,10 +7707,6 @@
         "lib/net8.0/Syncfusion.Blazor.Themes.xml",
         "lib/net9.0/Syncfusion.Blazor.Themes.dll",
         "lib/net9.0/Syncfusion.Blazor.Themes.xml",
-        "staticwebassets/bds-dark-lite.css",
-        "staticwebassets/bds-dark.css",
-        "staticwebassets/bds-lite.css",
-        "staticwebassets/bds.css",
         "staticwebassets/bootstrap-dark-lite.css",
         "staticwebassets/bootstrap-dark.css",
         "staticwebassets/bootstrap-lite.css",
@@ -7713,15 +7757,15 @@
         "staticwebassets/tailwind3-dark.css",
         "staticwebassets/tailwind3-lite.css",
         "staticwebassets/tailwind3.css",
-        "syncfusion.blazor.themes.29.2.11.nupkg.sha512",
+        "syncfusion.blazor.themes.30.1.38.nupkg.sha512",
         "syncfusion.blazor.themes.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Blazor.TreeGrid/29.2.11": {
-      "sha512": "LYt0y8vbNP1aTMLYm4cSKRX5E+vn2ngjCQmE5HC5xDO4ZyF2obPqCqwcle1wvAT2JWQdcMphbWkw4Hk9vkQXcA==",
+    "Syncfusion.Blazor.TreeGrid/30.1.38": {
+      "sha512": "VtYHrU3fcAVZMj9wyfl1YQ/Lk4jx9fRKqa6NNYepf0LnnbZbaZvwgAyQx5XHT5ZEHnAYd7fp2IUXQQwhYeOo8Q==",
       "type": "package",
-      "path": "syncfusion.blazor.treegrid/29.2.11",
+      "path": "syncfusion.blazor.treegrid/30.1.38",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7737,15 +7781,15 @@
         "lib/net9.0/Syncfusion.Blazor.TreeGrid.dll",
         "lib/net9.0/Syncfusion.Blazor.TreeGrid.xml",
         "staticwebassets/scripts/sf-treegrid.min.js",
-        "syncfusion.blazor.treegrid.29.2.11.nupkg.sha512",
+        "syncfusion.blazor.treegrid.30.1.38.nupkg.sha512",
         "syncfusion.blazor.treegrid.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.ExcelExport.Net.Core/29.2.11": {
-      "sha512": "3BmVJ6Y+WExyuk/piI0FAcDTDiAYCjm+omvvVYMsp6cXGcRu0OlZczkLDQtK9x0iBzvpBxYIjMc2/qs6FhNMSA==",
+    "Syncfusion.ExcelExport.Net.Core/30.1.38": {
+      "sha512": "tevHDExiKuw2q61QwtaKvj7CVUJjWgxzeu1lvZfs0HaDz8jv/hgXzpGB4MUTQhl7Tk9zEMx8xPTnRq9TtsC6+w==",
       "type": "package",
-      "path": "syncfusion.excelexport.net.core/29.2.11",
+      "path": "syncfusion.excelexport.net.core/30.1.38",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7756,15 +7800,15 @@
         "lib/net9.0/Syncfusion.ExcelExport.Net.xml",
         "lib/netstandard2.0/Syncfusion.ExcelExport.Net.dll",
         "lib/netstandard2.0/Syncfusion.ExcelExport.Net.xml",
-        "syncfusion.excelexport.net.core.29.2.11.nupkg.sha512",
+        "syncfusion.excelexport.net.core.30.1.38.nupkg.sha512",
         "syncfusion.excelexport.net.core.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Licensing/29.2.11": {
-      "sha512": "66j5V1KVfH/QekZH9t3tpz82ffvj7kU7xAaFNtcQiapObmcat6d5H5siwPOBSIaJwa3/aJUgmHtHrU5UFz459g==",
+    "Syncfusion.Licensing/30.1.38": {
+      "sha512": "/7aMOdM2dGQc6b+hSZon3llxLzNhZwVk4DLkMqA7HhuhMHh+KlBv/GK3/U4dQ9YNxSzli5vDKalaX+gEjE91hw==",
       "type": "package",
-      "path": "syncfusion.licensing/29.2.11",
+      "path": "syncfusion.licensing/30.1.38",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7778,15 +7822,15 @@
         "lib/net9.0/Syncfusion.Licensing.dll",
         "lib/netstandard2.0/Syncfusion.Licensing.dll",
         "lib/uap10.0/Syncfusion.Licensing.dll",
-        "syncfusion.licensing.29.2.11.nupkg.sha512",
+        "syncfusion.licensing.30.1.38.nupkg.sha512",
         "syncfusion.licensing.nuspec",
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.PdfExport.Net.Core/29.2.11": {
-      "sha512": "UqV9Q9L3pu3YqZKhg3hNt6fnTgGZbMQcJ+Kboq1CiYxQ3614lLiIx1zDfRF0zPevmHnDtDQetsHirLO7TjSBEw==",
+    "Syncfusion.PdfExport.Net.Core/30.1.38": {
+      "sha512": "p7JNVHQ2ogY6Or7k/YukeHehXl19UumfB6XgmjWLEEWk+8qLGX/mdr3xqsgd3+MNzeO6pLMRszw5GSYYJ5EkxA==",
       "type": "package",
-      "path": "syncfusion.pdfexport.net.core/29.2.11",
+      "path": "syncfusion.pdfexport.net.core/30.1.38",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -7797,7 +7841,7 @@
         "lib/net9.0/Syncfusion.PdfExport.Net.xml",
         "lib/netstandard2.0/Syncfusion.PdfExport.Net.dll",
         "lib/netstandard2.0/Syncfusion.PdfExport.Net.xml",
-        "syncfusion.pdfexport.net.core.29.2.11.nupkg.sha512",
+        "syncfusion.pdfexport.net.core.30.1.38.nupkg.sha512",
         "syncfusion.pdfexport.net.core.nuspec",
         "syncfusion_logo.png"
       ]
@@ -8176,10 +8220,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "System.Formats.Asn1/9.0.0": {
-      "sha512": "VRDjgfqV0hCma5HBQa46nZTRuqfYMWZClwxUtvLJVTCeDp9Esdvr91AfEWP98IMO8ooSv1yXb6/oCc6jApoXvQ==",
+    "System.Formats.Asn1/9.0.6": {
+      "sha512": "8LbKs3WVqyDSszFZJA9Uxg9z+C6WbPbFTSPm/HjFEsWx49XWs0ueqaAKPWncvFJ8yl4H4C/RTnUMhCKoXkddkg==",
       "type": "package",
-      "path": "system.formats.asn1/9.0.0",
+      "path": "system.formats.asn1/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -8199,7 +8243,7 @@
         "lib/net9.0/System.Formats.Asn1.xml",
         "lib/netstandard2.0/System.Formats.Asn1.dll",
         "lib/netstandard2.0/System.Formats.Asn1.xml",
-        "system.formats.asn1.9.0.0.nupkg.sha512",
+        "system.formats.asn1.9.0.6.nupkg.sha512",
         "system.formats.asn1.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -8899,10 +8943,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "System.Text.Json/9.0.0": {
-      "sha512": "js7+qAu/9mQvnhA4EfGMZNEzXtJCDxgkgj8ohuxq/Qxv+R56G+ljefhiJHOxTNiw54q8vmABCWUwkMulNdlZ4A==",
+    "System.Text.Json/9.0.6": {
+      "sha512": "h+ZtYTyTnTh5Ju6mHCKb3FPGx4ylJZgm9W7Y2psUnkhQRPMOIxX+TCN0ZgaR/+Yea+93XHWAaMzYTar1/EHIPg==",
       "type": "package",
-      "path": "system.text.json/9.0.0",
+      "path": "system.text.json/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -8965,7 +9009,7 @@
         "lib/net9.0/System.Text.Json.xml",
         "lib/netstandard2.0/System.Text.Json.dll",
         "lib/netstandard2.0/System.Text.Json.xml",
-        "system.text.json.9.0.0.nupkg.sha512",
+        "system.text.json.9.0.6.nupkg.sha512",
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -9070,15 +9114,17 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter >= 9.0.0",
-      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 9.0.0",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.0",
-      "Microsoft.EntityFrameworkCore.Tools >= 9.0.0",
+      "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter >= 9.0.6",
+      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 9.0.6",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.6",
+      "Microsoft.EntityFrameworkCore.Tools >= 9.0.6",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 9.0.0",
-      "Syncfusion.Blazor.Core >= 29.2.11",
-      "Syncfusion.Blazor.Grid >= 29.2.11",
-      "Syncfusion.Blazor.Themes >= 29.2.11",
-      "Syncfusion.Blazor.TreeGrid >= 29.2.11",
+      "Syncfusion.Blazor.Core >= 30.1.38",
+      "Syncfusion.Blazor.Grid >= 30.1.38",
+      "Syncfusion.Blazor.Layouts >= 30.1.38",
+      "Syncfusion.Blazor.Navigations >= 30.1.38",
+      "Syncfusion.Blazor.Themes >= 30.1.38",
+      "Syncfusion.Blazor.TreeGrid >= 30.1.38",
       "System.Data.SqlClient >= 4.9.0"
     ]
   },
@@ -9135,21 +9181,21 @@
         "dependencies": {
           "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
             "target": "Package",
-            "version": "[9.0.0, )"
+            "version": "[9.0.6, )"
           },
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
             "target": "Package",
-            "version": "[9.0.0, )"
+            "version": "[9.0.6, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
-            "version": "[9.0.0, )"
+            "version": "[9.0.6, )"
           },
           "Microsoft.EntityFrameworkCore.Tools": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[9.0.0, )"
+            "version": "[9.0.6, )"
           },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
@@ -9157,19 +9203,27 @@
           },
           "Syncfusion.Blazor.Core": {
             "target": "Package",
-            "version": "[29.2.11, )"
+            "version": "[30.1.38, )"
           },
           "Syncfusion.Blazor.Grid": {
             "target": "Package",
-            "version": "[29.2.11, )"
+            "version": "[30.1.38, )"
+          },
+          "Syncfusion.Blazor.Layouts": {
+            "target": "Package",
+            "version": "[30.1.38, )"
+          },
+          "Syncfusion.Blazor.Navigations": {
+            "target": "Package",
+            "version": "[30.1.38, )"
           },
           "Syncfusion.Blazor.Themes": {
             "target": "Package",
-            "version": "[29.2.11, )"
+            "version": "[30.1.38, )"
           },
           "Syncfusion.Blazor.TreeGrid": {
             "target": "Package",
-            "version": "[29.2.11, )"
+            "version": "[30.1.38, )"
           },
           "System.Data.SqlClient": {
             "target": "Package",

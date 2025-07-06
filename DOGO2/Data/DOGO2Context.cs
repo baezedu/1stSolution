@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using DOGO2.Model;
 using Microsoft.EntityFrameworkCore;
-using DOGO2.Model;
 
 namespace DOGO2.Data
 {

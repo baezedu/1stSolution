@@ -1,7 +1,6 @@
 ﻿using DOGO2.Components;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
 using DOGO2.Data;
+using Microsoft.EntityFrameworkCore;
 using Syncfusion.Blazor;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -14,9 +13,16 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 
 // Add services to the container.
+
+builder.Services.AddRazorPages();
+builder.Services.AddServerSideBlazor();
+
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
-builder.Services.AddSyncfusionBlazor();
+
+builder.Services.AddSyncfusionBlazor(options => { /* options.IgnoreScriptIsolation = true; */ });
+
+//builder.Services.AddSyncfusionBlazor();
 
 var app = builder.Build();
 
@@ -33,7 +39,7 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-
+app.UseStaticFiles();
 app.UseAntiforgery();
 
 app.MapStaticAssets();

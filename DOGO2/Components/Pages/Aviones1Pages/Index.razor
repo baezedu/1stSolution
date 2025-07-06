@@ -14,8 +14,9 @@
 
 <SfGrid DataSource="@Aviones1s" TItem="Aviones1" AllowPaging="true" AllowSearching="true" Toolbar="@toolbar" OnActionBegin="OnActionBeginHandler">
     <GridEditSettings AllowAdding="true" AllowEditing="true" AllowDeleting="true"></GridEditSettings>
-    <GridPageSettings PageSize="2"></GridPageSettings>
+    <GridPageSettings PageSize="10"></GridPageSettings>
     <GridFilterSettings Type="Syncfusion.Blazor.Grids.FilterType.Menu"></GridFilterSettings>
+	<GridEvents TValue="Aviones1" OnActionBegin="OnActionBeginHandler"></GridEvents>
     <GridColumns>
         <GridColumn IsPrimaryKey="true" IsIdentity="true" Field="IdAvion" HeaderText="ID Avión" Visible="false" />
         <GridColumn Field="IdTipoAvion" HeaderText="Tipo Avión" />
