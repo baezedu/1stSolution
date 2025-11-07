@@ -202,12 +202,11 @@ dist
 # Production configuration files
 **/appsettings.Production.json
 **/appsettings.Staging.json
-!**/appsettings.Production.example.json
 
 # Keep Development settings but ignore other environment-specific configs
 **/appsettings.*.json
 !**/appsettings.Development.json
-!**/appsettings.example.json
+!**/appsettings.*.example.json
 
 # Cloudflare Tunnel credentials and config
 .cloudflared/
