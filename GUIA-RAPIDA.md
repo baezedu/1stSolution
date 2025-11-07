@@ -41,7 +41,7 @@ Antes de comenzar, asegúrate de tener:
 CREATE DATABASE dbAlqPNA001Prod;
 GO
 
-CREATE LOGIN sa_app WITH PASSWORD = 'MiPassword123!Segura';
+CREATE LOGIN sa_app WITH PASSWORD = 'YOUR_STRONG_PASSWORD_HERE';
 GO
 
 USE dbAlqPNA001Prod;
@@ -57,8 +57,8 @@ GO
 #### 1.3 Verificar Conexión
 
 ```bash
-# Desde una ventana de comandos
-sqlcmd -S localhost,1433 -U sa_app -P MiPassword123!Segura
+# Desde una ventana de comandos (reemplaza con tu contraseña)
+sqlcmd -S localhost,1433 -U sa_app -P YOUR_STRONG_PASSWORD_HERE
 ```
 
 Si te conectas exitosamente, ¡vas bien! 🎉
@@ -154,7 +154,7 @@ Editar `DOGO2/appsettings.json`:
 ```json
 {
   "ConnectionStrings": {
-    "DOGO2Context": "Server=localhost,1433;Database=dbAlqPNA001Prod;User ID=sa_app;Password=MiPassword123!Segura;Trust Server Certificate=True;Encrypt=True"
+    "DOGO2Context": "Server=localhost,1433;Database=dbAlqPNA001Prod;User ID=sa_app;Password=YOUR_STRONG_PASSWORD_HERE;Trust Server Certificate=True;Encrypt=True"
   }
 }
 ```
@@ -173,13 +173,15 @@ Para producción, crear `DOGO2/appsettings.Production.json`:
 
 **Windows:**
 ```powershell
-$env:SQL_PASSWORD = "MiPassword123!Segura"
+# Reemplaza con tu contraseña real
+$env:SQL_PASSWORD = "YOUR_STRONG_PASSWORD_HERE"
 $env:ASPNETCORE_ENVIRONMENT = "Production"
 ```
 
 **Linux:**
 ```bash
-export SQL_PASSWORD="MiPassword123!Segura"
+# Reemplaza con tu contraseña real
+export SQL_PASSWORD="YOUR_STRONG_PASSWORD_HERE"
 export ASPNETCORE_ENVIRONMENT="Production"
 ```
 
@@ -226,11 +228,11 @@ Los scripts harán todo automáticamente:
 #### 5.1 Verificar SQL Server
 
 ```bash
-# Local
-sqlcmd -S localhost,1433 -U sa_app -P MiPassword123!Segura
+# Local (reemplaza con tu contraseña)
+sqlcmd -S localhost,1433 -U sa_app -P YOUR_STRONG_PASSWORD_HERE
 
-# A través del túnel
-sqlcmd -S sqlserver.tudominio.com,1433 -U sa_app -P MiPassword123!Segura
+# A través del túnel (reemplaza con tu contraseña)
+sqlcmd -S sqlserver.tudominio.com,1433 -U sa_app -P YOUR_STRONG_PASSWORD_HERE
 ```
 
 #### 5.2 Verificar Túnel Cloudflare

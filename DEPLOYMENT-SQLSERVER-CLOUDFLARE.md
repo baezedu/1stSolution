@@ -95,7 +95,7 @@ CREATE DATABASE dbAlqPNA001Prod;
 GO
 
 -- Crear login y usuario
-CREATE LOGIN sa_app WITH PASSWORD = 'TuPasswordSegura123!';
+CREATE LOGIN sa_app WITH PASSWORD = 'YOUR_SECURE_PASSWORD_HERE!';
 GO
 
 USE dbAlqPNA001Prod;
@@ -114,8 +114,8 @@ GO
 Prueba la conexión desde tu máquina local:
 
 ```bash
-# Usando sqlcmd
-sqlcmd -S 192.168.56.102,1401 -U sa -P TuPassword
+# Usando sqlcmd (reemplaza YOUR_PASSWORD con tu contraseña real)
+sqlcmd -S 192.168.56.102,1401 -U sa -P YOUR_PASSWORD
 ```
 
 ## Configuración del Túnel Cloudflare
@@ -225,10 +225,10 @@ Actualiza tu archivo `appsettings.json` con las diferentes configuraciones:
     "DOGO2Context": "Server=(localdb)\\MSSQLLocalDB;Database=YumBlazor;Trusted_Connection=true",
     
     // Producción - SQL Server Local con Autenticación SQL
-    "DOGO2Context_Production_Local": "Server=192.168.56.102,1401;Database=dbAlqPNA001Prod;User ID=sa_app;Password=TuPasswordSegura123!;Trust Server Certificate=True;Encrypt=True",
+    "DOGO2Context_Production_Local": "Server=192.168.56.102,1401;Database=dbAlqPNA001Prod;User ID=sa_app;Password=YOUR_SECURE_PASSWORD_HERE;Trust Server Certificate=True;Encrypt=True",
     
     // Producción - A través de Cloudflare Tunnel
-    "DOGO2Context_Production_Tunnel": "Server=sqlserver.tudominio.com,1433;Database=dbAlqPNA001Prod;User ID=sa_app;Password=TuPasswordSegura123!;Trust Server Certificate=True;Encrypt=True"
+    "DOGO2Context_Production_Tunnel": "Server=sqlserver.tudominio.com,1433;Database=dbAlqPNA001Prod;User ID=sa_app;Password=YOUR_SECURE_PASSWORD_HERE;Trust Server Certificate=True;Encrypt=True"
   }
 }
 ```
@@ -273,12 +273,14 @@ Para mayor seguridad, usa variables de entorno para las credenciales:
 
 **Windows:**
 ```powershell
-$env:SQL_PASSWORD = "TuPasswordSegura123!"
+# Reemplaza con tu contraseña real
+$env:SQL_PASSWORD = "YOUR_SECURE_PASSWORD_HERE"
 ```
 
 **Linux:**
 ```bash
-export SQL_PASSWORD="TuPasswordSegura123!"
+# Reemplaza con tu contraseña real
+export SQL_PASSWORD="YOUR_SECURE_PASSWORD_HERE"
 ```
 
 ### Program.cs

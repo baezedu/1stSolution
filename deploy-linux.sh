@@ -79,10 +79,10 @@ echo -e "${GREEN}[6/9] Setting up environment configuration...${NC}"
 mkdir -p "/etc/$APP_NAME"
 if [ ! -f "$ENV_FILE" ]; then
     echo "# DOGO2 Environment Variables" > "$ENV_FILE"
-    echo "# Add your SQL Server password below:" >> "$ENV_FILE"
-    echo "# SQL_PASSWORD=YourSecurePassword123!" >> "$ENV_FILE"
+    echo "# REQUIRED: Set your SQL Server password" >> "$ENV_FILE"
+    echo "# SQL_PASSWORD=YOUR_SECURE_PASSWORD_HERE" >> "$ENV_FILE"
     chmod 600 "$ENV_FILE"
-    echo -e "  ${YELLOW}Created $ENV_FILE - Please add SQL_PASSWORD${NC}"
+    echo -e "  ${YELLOW}Created $ENV_FILE - IMPORTANT: Edit this file and set SQL_PASSWORD${NC}"
 else
     echo -e "  ${NC}Environment file already exists${NC}"
 fi

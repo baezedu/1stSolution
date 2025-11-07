@@ -125,12 +125,23 @@ if (-not (Test-Path $webConfig)) {
       <handlers>
         <add name="aspNetCore" path="*" verb="*" modules="AspNetCoreModuleV2" resourceType="Unspecified" />
       </handlers>
-      <aspNetCore processPath="dotnet" arguments=".\DOGO2.dll" stdoutLogEnabled="false" stdoutLogFile=".\logs\stdout" hostingModel="inprocess" />
+      <aspNetCore processPath="dotnet" arguments=".\DOGO2.dll" stdoutLogEnabled="true" stdoutLogFile=".\logs\stdout" hostingModel="inprocess">
+        <environmentVariables>
+          <environmentVariable name="ASPNETCORE_ENVIRONMENT" value="Production" />
+        </environmentVariables>
+      </aspNetCore>
     </system.webServer>
   </location>
 </configuration>
 "@ | Set-Content -Path $webConfig
     Write-Host "  Created web.config" -ForegroundColor Gray
+}
+
+# Create logs directory
+$logsPath = Join-Path $AppPath "logs"
+if (-not (Test-Path $logsPath)) {
+    New-Item -Path $logsPath -ItemType Directory -Force | Out-Null
+    Write-Host "  Created logs directory" -ForegroundColor Gray
 }
 
 # Step 7: Configure Firewall
