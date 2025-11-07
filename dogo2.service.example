@@ -1,0 +1,46 @@
+[Unit]
+Description=DOGO2 Blazor Server Application
+After=network.target
+
+[Service]
+WorkingDirectory=/var/www/dogo2
+ExecStart=/usr/bin/dotnet /var/www/dogo2/DOGO2.dll
+
+# Restart service after 10 seconds if the dotnet service crashes:
+Restart=always
+RestartSec=10
+KillSignal=SIGINT
+
+# User and Group
+User=www-data
+Group=www-data
+
+# Environment variables
+Environment=ASPNETCORE_ENVIRONMENT=Production
+Environment=DOTNET_PRINT_TELEMETRY_MESSAGE=false
+Environment=ASPNETCORE_URLS=http://localhost:5000
+
+# Security: SQL Server password
+# Option 1: Set here (not recommended - use Option 2 instead)
+# Environment=SQL_PASSWORD=YourSecurePassword123!
+
+# Option 2: Use EnvironmentFile (recommended)
+# Create file: /etc/dogo2/env
+# Add line: SQL_PASSWORD=YourSecurePassword123!
+# Set permissions: sudo chmod 600 /etc/dogo2/env
+EnvironmentFile=-/etc/dogo2/env
+
+# Logging
+SyslogIdentifier=dogo2
+StandardOutput=journal
+StandardError=journal
+
+# Security hardening (optional but recommended)
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/var/www/dogo2
+
+[Install]
+WantedBy=multi-user.target
