@@ -1,3 +1,0 @@
-C:\Users\atyse\source\repos\DOGO2\DOGO2\wwwroot\app.css
-wwwroot\app.css
-wwwroot\favicon.png

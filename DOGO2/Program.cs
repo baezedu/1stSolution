@@ -31,7 +31,8 @@ if (!app.Environment.IsDevelopment())
     app.UseMigrationsEndPoint();
 }
 
-app.UseHttpsRedirection();
+// HTTPS redirection is disabled when behind a reverse proxy like Cloudflare that handles SSL/TLS termination
+// app.UseHttpsRedirection();
 
 
 app.UseAntiforgery();
