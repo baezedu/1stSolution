@@ -17,69 +17,69 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DOGO2
 build_property.RootNamespace = DOGO2
-build_property.ProjectDir = C:\Users\atyse\source\repos\DOGO2\DOGO2\
+build_property.ProjectDir = /home/runner/work/1stSolution/1stSolution/DOGO2/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\atyse\source\repos\DOGO2\DOGO2
+build_property.MSBuildProjectDirectory = /home/runner/work/1stSolution/1stSolution/DOGO2
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/atyse/source/repos/DOGO2/DOGO2/Components/App.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+[/home/runner/work/1stSolution/1stSolution/DOGO2/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atyse/source/repos/DOGO2/DOGO2/Components/Pages/Aviones1Pages/Create.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBdmlvbmVzMVBhZ2VzXENyZWF0ZS5yYXpvcg==
+[/home/runner/work/1stSolution/1stSolution/DOGO2/Components/Pages/Aviones1Pages/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BdmlvbmVzMVBhZ2VzL0NyZWF0ZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atyse/source/repos/DOGO2/DOGO2/Components/Pages/Aviones1Pages/Delete.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBdmlvbmVzMVBhZ2VzXERlbGV0ZS5yYXpvcg==
+[/home/runner/work/1stSolution/1stSolution/DOGO2/Components/Pages/Aviones1Pages/Delete.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BdmlvbmVzMVBhZ2VzL0RlbGV0ZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atyse/source/repos/DOGO2/DOGO2/Components/Pages/Aviones1Pages/Details.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBdmlvbmVzMVBhZ2VzXERldGFpbHMucmF6b3I=
+[/home/runner/work/1stSolution/1stSolution/DOGO2/Components/Pages/Aviones1Pages/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BdmlvbmVzMVBhZ2VzL0RldGFpbHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atyse/source/repos/DOGO2/DOGO2/Components/Pages/Aviones1Pages/Edit.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBdmlvbmVzMVBhZ2VzXEVkaXQucmF6b3I=
+[/home/runner/work/1stSolution/1stSolution/DOGO2/Components/Pages/Aviones1Pages/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BdmlvbmVzMVBhZ2VzL0VkaXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atyse/source/repos/DOGO2/DOGO2/Components/Pages/Aviones1Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBdmlvbmVzMVBhZ2VzXEluZGV4LnJhem9y
+[/home/runner/work/1stSolution/1stSolution/DOGO2/Components/Pages/Aviones1Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BdmlvbmVzMVBhZ2VzL0luZGV4LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atyse/source/repos/DOGO2/DOGO2/Components/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
+[/home/runner/work/1stSolution/1stSolution/DOGO2/Components/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Db3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atyse/source/repos/DOGO2/DOGO2/Components/Pages/Error.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+[/home/runner/work/1stSolution/1stSolution/DOGO2/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atyse/source/repos/DOGO2/DOGO2/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+[/home/runner/work/1stSolution/1stSolution/DOGO2/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atyse/source/repos/DOGO2/DOGO2/Components/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
+[/home/runner/work/1stSolution/1stSolution/DOGO2/Components/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9XZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atyse/source/repos/DOGO2/DOGO2/Components/Routes.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+[/home/runner/work/1stSolution/1stSolution/DOGO2/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Sb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atyse/source/repos/DOGO2/DOGO2/Components/_Imports.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+[/home/runner/work/1stSolution/1stSolution/DOGO2/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/atyse/source/repos/DOGO2/DOGO2/Components/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-0cjgdazzvj
+[/home/runner/work/1stSolution/1stSolution/DOGO2/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-wr419idtvb
 
-[C:/Users/atyse/source/repos/DOGO2/DOGO2/Components/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-68j85cl6wa
+[/home/runner/work/1stSolution/1stSolution/DOGO2/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-tfutbt2r3c

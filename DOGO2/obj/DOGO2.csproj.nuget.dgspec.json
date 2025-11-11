@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\atyse\\source\\repos\\DOGO2\\DOGO2\\DOGO2.csproj": {}
+    "/home/runner/work/1stSolution/1stSolution/DOGO2/DOGO2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\atyse\\source\\repos\\DOGO2\\DOGO2\\DOGO2.csproj": {
+    "/home/runner/work/1stSolution/1stSolution/DOGO2/DOGO2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\atyse\\source\\repos\\DOGO2\\DOGO2\\DOGO2.csproj",
+        "projectUniqueName": "/home/runner/work/1stSolution/1stSolution/DOGO2/DOGO2.csproj",
         "projectName": "DOGO2",
-        "projectPath": "C:\\Users\\atyse\\source\\repos\\DOGO2\\DOGO2\\DOGO2.csproj",
-        "packagesPath": "C:\\Users\\atyse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\atyse\\source\\repos\\DOGO2\\DOGO2\\obj\\",
+        "projectPath": "/home/runner/work/1stSolution/1stSolution/DOGO2/DOGO2.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/work/1stSolution/1stSolution/DOGO2/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\atyse\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/runner/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -113,7 +106,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
