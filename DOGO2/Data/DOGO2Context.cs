@@ -10,6 +10,8 @@ namespace DOGO2.Data
     public class DOGO2Context(DbContextOptions<DOGO2Context> options) : DbContext(options)
     {
         public DbSet<Aviones1> Aviones1 { get; set; } = default!;
+        public DbSet<Producto> Productos { get; set; } = default!;
+        public DbSet<Servicio> Servicios { get; set; } = default!;
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

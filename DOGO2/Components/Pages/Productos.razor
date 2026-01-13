@@ -1,0 +1,259 @@
+@page "/productos"
+@using DOGO2.Data
+@using DOGO2.Model
+@using Microsoft.EntityFrameworkCore
+@inject IDbContextFactory<DOGO2Context> DbFactory
+
+<PageTitle>Productos - Ciencia y Tecnología</PageTitle>
+
+<div class="products-header">
+    <h1>Catálogo de Productos</h1>
+    <p>Equipamiento y software para ciencia y tecnología</p>
+</div>
+
+<div class="container mt-4">
+    <div class="row mb-4">
+        <div class="col-md-3">
+            <div class="filter-section">
+                <h4>Categorías</h4>
+                <div class="category-filter">
+                    <button class="btn btn-outline-secondary btn-sm mb-2 w-100 @(selectedCategory == "Todas" ? "active" : "")" 
+                            @onclick='() => FilterByCategory("Todas")'>
+                        Todas las Categorías
+                    </button>
+                    <button class="btn btn-outline-secondary btn-sm mb-2 w-100 @(selectedCategory == "Software" ? "active" : "")" 
+                            @onclick='() => FilterByCategory("Software")'>
+                        Software
+                    </button>
+                    <button class="btn btn-outline-secondary btn-sm mb-2 w-100 @(selectedCategory == "Hardware" ? "active" : "")" 
+                            @onclick='() => FilterByCategory("Hardware")'>
+                        Hardware
+                    </button>
+                    <button class="btn btn-outline-secondary btn-sm mb-2 w-100 @(selectedCategory == "Instrumentos" ? "active" : "")" 
+                            @onclick='() => FilterByCategory("Instrumentos")'>
+                        Instrumentos
+                    </button>
+                    <button class="btn btn-outline-secondary btn-sm mb-2 w-100 @(selectedCategory == "Robótica" ? "active" : "")" 
+                            @onclick='() => FilterByCategory("Robótica")'>
+                        Robótica
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-9">
+            <div class="row">
+                @if (productos == null)
+                {
+                    <p><em>Cargando productos...</em></p>
+                }
+                else if (!filteredProducts.Any())
+                {
+                    <div class="col-12">
+                        <div class="alert alert-info">
+                            <h4>No hay productos disponibles en esta categoría</h4>
+                            <p>Pronto agregaremos más productos. Por ahora, consulta nuestras categorías de ejemplo:</p>
+                        </div>
+                        @foreach (var producto in sampleProducts)
+                        {
+                            <div class="col-md-4 mb-4">
+                                <div class="product-card-detail">
+                                    <div class="product-image-large">@producto.Icon</div>
+                                    <h4>@producto.Nombre</h4>
+                                    <p class="category-badge">@producto.Categoria</p>
+                                    <p>@producto.Descripcion</p>
+                                    <div class="price-large">$@producto.Precio.ToString("N2")</div>
+                                    <div class="availability">
+                                        @if (producto.Disponible)
+                                        {
+                                            <span class="badge bg-success">Disponible</span>
+                                        }
+                                        else
+                                        {
+                                            <span class="badge bg-warning">Agotado</span>
+                                        }
+                                    </div>
+                                    <button class="btn btn-primary w-100 mt-2" disabled="@(!producto.Disponible)">
+                                        @(producto.Disponible ? "Agregar al Carrito" : "No Disponible")
+                                    </button>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                }
+                else
+                {
+                    @foreach (var producto in filteredProducts)
+                    {
+                        <div class="col-md-4 mb-4">
+                            <div class="product-card-detail">
+                                <div class="product-image-large">📦</div>
+                                <h4>@producto.Nombre</h4>
+                                <p class="category-badge">@producto.Categoria</p>
+                                <p>@producto.Descripcion</p>
+                                <div class="price-large">$@producto.Precio.ToString("N2")</div>
+                                <div class="availability">
+                                    @if (producto.Disponible)
+                                    {
+                                        <span class="badge bg-success">Disponible</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="badge bg-warning">Agotado</span>
+                                    }
+                                </div>
+                                <button class="btn btn-primary w-100 mt-2" disabled="@(!producto.Disponible)">
+                                    @(producto.Disponible ? "Agregar al Carrito" : "No Disponible")
+                                </button>
+                            </div>
+                        </div>
+                    }
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .products-header {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 50px 20px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .products-header h1 {
+        font-size: 2.5rem;
+        margin-bottom: 10px;
+    }
+
+    .filter-section {
+        background: white;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    .filter-section h4 {
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+    .category-filter .btn.active {
+        background-color: #1b6ec2;
+        color: white;
+    }
+
+    .product-card-detail {
+        background: white;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 20px;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        transition: all 0.3s;
+    }
+
+    .product-card-detail:hover {
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        transform: translateY(-5px);
+    }
+
+    .product-image-large {
+        font-size: 4rem;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    .product-card-detail h4 {
+        color: #333;
+        font-size: 1.2rem;
+        margin-bottom: 10px;
+    }
+
+    .category-badge {
+        display: inline-block;
+        background: #f0f0f0;
+        padding: 5px 10px;
+        border-radius: 4px;
+        font-size: 0.85rem;
+        color: #666;
+        margin-bottom: 10px;
+    }
+
+    .price-large {
+        font-size: 1.8rem;
+        color: #1b6ec2;
+        font-weight: bold;
+        margin-top: auto;
+        margin-bottom: 10px;
+    }
+
+    .availability {
+        margin-bottom: 10px;
+    }
+</style>
+
+@code {
+    private List<Producto>? productos;
+    private List<Producto> filteredProducts = new();
+    private string selectedCategory = "Todas";
+
+    // Sample products for demonstration
+    private List<SampleProduct> sampleProducts = new()
+    {
+        new() { Nombre = "MATLAB Scientific Suite", Descripcion = "Software de análisis matemático y simulación", Precio = 2999.00M, Categoria = "Software", Icon = "📊", Disponible = true },
+        new() { Nombre = "Microscopio Digital USB", Descripcion = "Microscopio de alta resolución 1000x", Precio = 499.00M, Categoria = "Instrumentos", Icon = "🔬", Disponible = true },
+        new() { Nombre = "Arduino Mega 2560", Descripcion = "Placa de desarrollo para proyectos IoT", Precio = 45.00M, Categoria = "Robótica", Icon = "🤖", Disponible = true },
+        new() { Nombre = "Estación de Trabajo HP Z4", Descripcion = "Workstation para cálculo científico intensivo", Precio = 3499.00M, Categoria = "Hardware", Icon = "🖥️", Disponible = true },
+        new() { Nombre = "Python Data Science Stack", Descripcion = "Suite completa para ciencia de datos", Precio = 199.00M, Categoria = "Software", Icon = "🐍", Disponible = true },
+        new() { Nombre = "Multímetro Digital Fluke", Descripcion = "Instrumento de medición de precisión", Precio = 299.00M, Categoria = "Instrumentos", Icon = "⚡", Disponible = true },
+        new() { Nombre = "Kit de Sensores IoT", Descripcion = "25 sensores para proyectos Arduino/Raspberry", Precio = 89.00M, Categoria = "Robótica", Icon = "📡", Disponible = true },
+        new() { Nombre = "Servidor Dell PowerEdge", Descripcion = "Servidor rackmount para HPC", Precio = 5999.00M, Categoria = "Hardware", Icon = "💾", Disponible = false },
+        new() { Nombre = "LabVIEW Professional", Descripcion = "Software de adquisición de datos e instrumentación", Precio = 4499.00M, Categoria = "Software", Icon = "📈", Disponible = true }
+    };
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadProducts();
+    }
+
+    private async Task LoadProducts()
+    {
+        using var context = await DbFactory.CreateDbContextAsync();
+        productos = await context.Productos.ToListAsync();
+        FilterProducts();
+    }
+
+    private void FilterByCategory(string category)
+    {
+        selectedCategory = category;
+        FilterProducts();
+    }
+
+    private void FilterProducts()
+    {
+        if (productos == null) return;
+
+        if (selectedCategory == "Todas")
+        {
+            filteredProducts = productos.ToList();
+        }
+        else
+        {
+            filteredProducts = productos.Where(p => p.Categoria == selectedCategory).ToList();
+        }
+    }
+
+    private class SampleProduct
+    {
+        public string Nombre { get; set; } = "";
+        public string Descripcion { get; set; } = "";
+        public decimal Precio { get; set; }
+        public string Categoria { get; set; } = "";
+        public string Icon { get; set; } = "";
+        public bool Disponible { get; set; }
+    }
+}

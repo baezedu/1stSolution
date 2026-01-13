@@ -1,0 +1,306 @@
+@page "/servicios"
+@using DOGO2.Data
+@using DOGO2.Model
+@using Microsoft.EntityFrameworkCore
+@inject IDbContextFactory<DOGO2Context> DbFactory
+
+<PageTitle>Servicios - Ciencia y Tecnología</PageTitle>
+
+<div class="services-header">
+    <h1>Nuestros Servicios</h1>
+    <p>Soluciones profesionales en ciencia y tecnología</p>
+</div>
+
+<div class="container mt-4">
+    <div class="row mb-4">
+        <div class="col-md-3">
+            <div class="filter-section">
+                <h4>Tipos de Servicio</h4>
+                <div class="service-filter">
+                    <button class="btn btn-outline-secondary btn-sm mb-2 w-100 @(selectedType == "Todos" ? "active" : "")" 
+                            @onclick='() => FilterByType("Todos")'>
+                        Todos los Servicios
+                    </button>
+                    <button class="btn btn-outline-secondary btn-sm mb-2 w-100 @(selectedType == "Desarrollo" ? "active" : "")" 
+                            @onclick='() => FilterByType("Desarrollo")'>
+                        Desarrollo
+                    </button>
+                    <button class="btn btn-outline-secondary btn-sm mb-2 w-100 @(selectedType == "Consultoría" ? "active" : "")" 
+                            @onclick='() => FilterByType("Consultoría")'>
+                        Consultoría
+                    </button>
+                    <button class="btn btn-outline-secondary btn-sm mb-2 w-100 @(selectedType == "Investigación" ? "active" : "")" 
+                            @onclick='() => FilterByType("Investigación")'>
+                        Investigación
+                    </button>
+                    <button class="btn btn-outline-secondary btn-sm mb-2 w-100 @(selectedType == "Capacitación" ? "active" : "")" 
+                            @onclick='() => FilterByType("Capacitación")'>
+                        Capacitación
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-9">
+            <div class="row">
+                @if (servicios == null)
+                {
+                    <p><em>Cargando servicios...</em></p>
+                }
+                else if (!filteredServices.Any())
+                {
+                    <div class="col-12">
+                        <div class="alert alert-info">
+                            <h4>Servicios Disponibles</h4>
+                            <p>Consulta nuestro catálogo de servicios profesionales:</p>
+                        </div>
+                        @foreach (var servicio in sampleServices)
+                        {
+                            <div class="col-md-6 mb-4">
+                                <div class="service-card-detail">
+                                    <div class="service-header">
+                                        <div class="service-icon-large">@servicio.Icon</div>
+                                        <div class="service-info">
+                                            <h4>@servicio.Nombre</h4>
+                                            <p class="service-type-badge">@servicio.TipoServicio</p>
+                                        </div>
+                                    </div>
+                                    <p class="service-description">@servicio.Descripcion</p>
+                                    <div class="service-pricing">
+                                        <div class="price-hour">$@servicio.PrecioHora.ToString("N2")/hora</div>
+                                        <div class="availability">
+                                            @if (servicio.Disponible)
+                                            {
+                                                <span class="badge bg-success">Disponible</span>
+                                            }
+                                            else
+                                            {
+                                                <span class="badge bg-warning">Consultar</span>
+                                            }
+                                        </div>
+                                    </div>
+                                    <button class="btn btn-primary w-100 mt-3">Solicitar Cotización</button>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                }
+                else
+                {
+                    @foreach (var servicio in filteredServices)
+                    {
+                        <div class="col-md-6 mb-4">
+                            <div class="service-card-detail">
+                                <div class="service-header">
+                                    <div class="service-icon-large">🔧</div>
+                                    <div class="service-info">
+                                        <h4>@servicio.Nombre</h4>
+                                        <p class="service-type-badge">@servicio.TipoServicio</p>
+                                    </div>
+                                </div>
+                                <p class="service-description">@servicio.Descripcion</p>
+                                <div class="service-pricing">
+                                    <div class="price-hour">$@servicio.PrecioHora.ToString("N2")/hora</div>
+                                    <div class="availability">
+                                        @if (servicio.Disponible)
+                                        {
+                                            <span class="badge bg-success">Disponible</span>
+                                        }
+                                        else
+                                        {
+                                            <span class="badge bg-warning">Consultar</span>
+                                        }
+                                    </div>
+                                </div>
+                                <button class="btn btn-primary w-100 mt-3">Solicitar Cotización</button>
+                            </div>
+                        </div>
+                    }
+                }
+            </div>
+        </div>
+    </div>
+
+    <div class="row mt-5 mb-5">
+        <div class="col-md-12">
+            <div class="contact-cta">
+                <h2>¿Necesitas un servicio personalizado?</h2>
+                <p>Nuestro equipo de expertos puede desarrollar una solución a tu medida</p>
+                <button class="btn btn-success btn-lg">Contactar a un Especialista</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .services-header {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 50px 20px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .services-header h1 {
+        font-size: 2.5rem;
+        margin-bottom: 10px;
+    }
+
+    .filter-section {
+        background: white;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        position: sticky;
+        top: 20px;
+    }
+
+    .filter-section h4 {
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+    .service-filter .btn.active {
+        background-color: #1b6ec2;
+        color: white;
+    }
+
+    .service-card-detail {
+        background: white;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 25px;
+        height: 100%;
+        transition: all 0.3s;
+    }
+
+    .service-card-detail:hover {
+        box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+        transform: translateY(-5px);
+    }
+
+    .service-header {
+        display: flex;
+        align-items: flex-start;
+        margin-bottom: 20px;
+    }
+
+    .service-icon-large {
+        font-size: 3.5rem;
+        margin-right: 20px;
+    }
+
+    .service-info h4 {
+        color: #333;
+        font-size: 1.3rem;
+        margin-bottom: 5px;
+    }
+
+    .service-type-badge {
+        display: inline-block;
+        background: #e3f2fd;
+        padding: 4px 12px;
+        border-radius: 4px;
+        font-size: 0.85rem;
+        color: #1976d2;
+        margin-top: 5px;
+    }
+
+    .service-description {
+        color: #666;
+        line-height: 1.6;
+        margin-bottom: 20px;
+    }
+
+    .service-pricing {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-top: 15px;
+        border-top: 1px solid #eee;
+    }
+
+    .price-hour {
+        font-size: 1.5rem;
+        color: #1b6ec2;
+        font-weight: bold;
+    }
+
+    .contact-cta {
+        background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        color: white;
+        padding: 50px;
+        border-radius: 12px;
+        text-align: center;
+    }
+
+    .contact-cta h2 {
+        margin-bottom: 15px;
+    }
+
+    .contact-cta p {
+        font-size: 1.2rem;
+        margin-bottom: 25px;
+    }
+</style>
+
+@code {
+    private List<Servicio>? servicios;
+    private List<Servicio> filteredServices = new();
+    private string selectedType = "Todos";
+
+    // Sample services for demonstration
+    private List<SampleService> sampleServices = new()
+    {
+        new() { Nombre = "Desarrollo de Software a Medida", Descripcion = "Desarrollo de aplicaciones web, móviles y de escritorio usando tecnologías modernas (.NET, React, Angular, etc.)", PrecioHora = 85.00M, TipoServicio = "Desarrollo", Icon = "💻", Disponible = true },
+        new() { Nombre = "Consultoría en Inteligencia Artificial", Descripcion = "Asesoramiento en implementación de soluciones de Machine Learning y Deep Learning para su negocio", PrecioHora = 120.00M, TipoServicio = "Consultoría", Icon = "🧠", Disponible = true },
+        new() { Nombre = "Investigación y Desarrollo", Descripcion = "Proyectos de I+D en ciencias aplicadas, análisis de datos y desarrollo de nuevas tecnologías", PrecioHora = 95.00M, TipoServicio = "Investigación", Icon = "🔬", Disponible = true },
+        new() { Nombre = "Capacitación en Tecnologías Emergentes", Descripcion = "Cursos y talleres en Cloud Computing, DevOps, Blockchain, IoT y otras tecnologías de vanguardia", PrecioHora = 65.00M, TipoServicio = "Capacitación", Icon = "📚", Disponible = true },
+        new() { Nombre = "Análisis de Datos y Big Data", Descripcion = "Procesamiento y análisis de grandes volúmenes de datos, visualización y generación de insights", PrecioHora = 100.00M, TipoServicio = "Consultoría", Icon = "📊", Disponible = true },
+        new() { Nombre = "Desarrollo de APIs y Microservicios", Descripcion = "Diseño e implementación de arquitecturas escalables basadas en microservicios y APIs RESTful", PrecioHora = 90.00M, TipoServicio = "Desarrollo", Icon = "🔌", Disponible = true },
+        new() { Nombre = "Automatización de Procesos", Descripcion = "Robotización de procesos (RPA) y automatización de flujos de trabajo empresariales", PrecioHora = 75.00M, TipoServicio = "Consultoría", Icon = "⚙️", Disponible = true },
+        new() { Nombre = "Formación en Programación Científica", Descripcion = "Cursos especializados en Python, R, MATLAB para análisis científico y computación numérica", PrecioHora = 70.00M, TipoServicio = "Capacitación", Icon = "🎓", Disponible = true }
+    };
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadServices();
+    }
+
+    private async Task LoadServices()
+    {
+        using var context = await DbFactory.CreateDbContextAsync();
+        servicios = await context.Servicios.ToListAsync();
+        FilterServices();
+    }
+
+    private void FilterByType(string type)
+    {
+        selectedType = type;
+        FilterServices();
+    }
+
+    private void FilterServices()
+    {
+        if (servicios == null) return;
+
+        if (selectedType == "Todos")
+        {
+            filteredServices = servicios.ToList();
+        }
+        else
+        {
+            filteredServices = servicios.Where(s => s.TipoServicio == selectedType).ToList();
+        }
+    }
+
+    private class SampleService
+    {
+        public string Nombre { get; set; } = "";
+        public string Descripcion { get; set; } = "";
+        public decimal PrecioHora { get; set; }
+        public string TipoServicio { get; set; } = "";
+        public string Icon { get; set; } = "";
+        public bool Disponible { get; set; }
+    }
+}
