@@ -71,7 +71,10 @@ Value: [DKIM key provided by Site123]
 ### DNS Not Propagating
 
 - **Wait longer**: DNS changes can take up to 48 hours to propagate globally
-- **Clear DNS cache**: Use `ipconfig /flushdns` (Windows) or `sudo dscacheutil -flushcache` (Mac)
+- **Clear DNS cache**: 
+  - Windows: `ipconfig /flushdns`
+  - macOS: `sudo dscacheutil -flushcache && sudo killall -HUP mDNSResponder`
+  - Linux: `sudo systemd-resolve --flush-caches` (systemd) or `sudo /etc/init.d/nscd restart` (nscd)
 - **Check DNS propagation**: Use [whatsmydns.net](https://www.whatsmydns.net) to verify
 
 ### Verification Failing
