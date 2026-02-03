@@ -1,0 +1,220 @@
+@page "/ciencia-tecnologia"
+@using DOGO2.Data
+@using DOGO2.Model
+@inject IDbContextFactory<DOGO2Context> DbFactory
+
+<PageTitle>Ciencia y Tecnología - ATyServicio</PageTitle>
+
+<div class="hero-section">
+    <div class="hero-content">
+        <h1>Bienvenido a ATyServicio</h1>
+        <p class="lead">Tu destino para productos y servicios de Ciencia y Tecnología</p>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="row mb-4">
+        <div class="col-md-12">
+            <h2>Nuestros Servicios</h2>
+            <p>Ofrecemos soluciones tecnológicas y científicas de vanguardia para empresas e instituciones</p>
+        </div>
+    </div>
+
+    <div class="row mb-5">
+        <div class="col-md-4 mb-3">
+            <div class="service-card">
+                <div class="service-icon">🔬</div>
+                <h3>Investigación Científica</h3>
+                <p>Asesoramiento y desarrollo de proyectos de investigación en ciencias aplicadas</p>
+                <a href="/servicios" class="btn btn-primary">Ver Servicios</a>
+            </div>
+        </div>
+        
+        <div class="col-md-4 mb-3">
+            <div class="service-card">
+                <div class="service-icon">💻</div>
+                <h3>Desarrollo de Software</h3>
+                <p>Soluciones tecnológicas personalizadas para tu negocio</p>
+                <a href="/servicios" class="btn btn-primary">Ver Servicios</a>
+            </div>
+        </div>
+        
+        <div class="col-md-4 mb-3">
+            <div class="service-card">
+                <div class="service-icon">🔧</div>
+                <h3>Consultoría Técnica</h3>
+                <p>Asesoramiento especializado en tecnología y ciencia</p>
+                <a href="/servicios" class="btn btn-primary">Ver Servicios</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mb-4">
+        <div class="col-md-12">
+            <h2>Productos Destacados</h2>
+            <p>Equipamiento y software de última generación</p>
+        </div>
+    </div>
+
+    <div class="row mb-5">
+        <div class="col-md-3 mb-3">
+            <div class="product-card">
+                <div class="product-image">📱</div>
+                <h4>Software Científico</h4>
+                <p>Herramientas de análisis de datos</p>
+                <div class="price">Desde $299</div>
+                <a href="/productos" class="btn btn-outline-primary btn-sm">Ver Productos</a>
+            </div>
+        </div>
+        
+        <div class="col-md-3 mb-3">
+            <div class="product-card">
+                <div class="product-image">🖥️</div>
+                <h4>Equipos de Cómputo</h4>
+                <p>Estaciones de trabajo especializadas</p>
+                <div class="price">Desde $1,999</div>
+                <a href="/productos" class="btn btn-outline-primary btn-sm">Ver Productos</a>
+            </div>
+        </div>
+        
+        <div class="col-md-3 mb-3">
+            <div class="product-card">
+                <div class="product-image">🔍</div>
+                <h4>Instrumentos de Medición</h4>
+                <p>Equipos de laboratorio de precisión</p>
+                <div class="price">Desde $499</div>
+                <a href="/productos" class="btn btn-outline-primary btn-sm">Ver Productos</a>
+            </div>
+        </div>
+        
+        <div class="col-md-3 mb-3">
+            <div class="product-card">
+                <div class="product-image">🤖</div>
+                <h4>Robótica</h4>
+                <p>Kits y componentes para robótica</p>
+                <div class="price">Desde $399</div>
+                <a href="/productos" class="btn btn-outline-primary btn-sm">Ver Productos</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mb-5">
+        <div class="col-md-12 text-center">
+            <div class="cta-section">
+                <h2>¿Necesitas una solución personalizada?</h2>
+                <p>Nuestro equipo de expertos está listo para ayudarte</p>
+                <button class="btn btn-success btn-lg">Contáctanos Ahora</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .hero-section {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 80px 20px;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .hero-content h1 {
+        font-size: 3rem;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+
+    .hero-content .lead {
+        font-size: 1.5rem;
+    }
+
+    .service-card {
+        background: white;
+        border-radius: 10px;
+        padding: 30px;
+        text-align: center;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        transition: transform 0.3s;
+        height: 100%;
+    }
+
+    .service-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+
+    .service-icon {
+        font-size: 4rem;
+        margin-bottom: 20px;
+    }
+
+    .service-card h3 {
+        color: #333;
+        margin-bottom: 15px;
+    }
+
+    .service-card p {
+        color: #666;
+        margin-bottom: 20px;
+    }
+
+    .product-card {
+        background: white;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 20px;
+        text-align: center;
+        transition: all 0.3s;
+        height: 100%;
+    }
+
+    .product-card:hover {
+        border-color: #1b6ec2;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    .product-image {
+        font-size: 3rem;
+        margin-bottom: 15px;
+    }
+
+    .product-card h4 {
+        color: #333;
+        margin-bottom: 10px;
+        font-size: 1.1rem;
+    }
+
+    .product-card p {
+        color: #666;
+        font-size: 0.9rem;
+        margin-bottom: 15px;
+    }
+
+    .price {
+        font-size: 1.3rem;
+        color: #1b6ec2;
+        font-weight: bold;
+        margin-bottom: 15px;
+    }
+
+    .cta-section {
+        background: #f8f9fa;
+        padding: 50px;
+        border-radius: 10px;
+    }
+
+    .cta-section h2 {
+        color: #333;
+        margin-bottom: 20px;
+    }
+
+    .cta-section p {
+        color: #666;
+        font-size: 1.2rem;
+        margin-bottom: 30px;
+    }
+</style>
+
+@code {
+    // This page is static for now, but can be enhanced with dynamic content from the database
+}
